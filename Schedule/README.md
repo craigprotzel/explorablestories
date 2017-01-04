@@ -32,9 +32,14 @@ Explorabe Stories Schedule
 	* DESCRIBE a memorable educational experience from your childhood. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time? Was the experience an ‘explorable’ one or not? Were elements of either Piaget’s Constructivism or Papert’s Constructionism involved? Explain why or why not?  
 	* CREATE a web page with your writing response on it  
 
-###Class 2 (Thurs 01/05) - Explain vs Explore
-* Share Homework
-* Discussion - Explanatory vs Exploratory
+###Class 2 (Thurs 01/05) - Explain & Explore
+* Upload Homework
+	* [Cyberduck](https://cyberduck.io/?l=en)
+* Share Homework  
+* Workshop - Web Design + Development	
+	* [The Internet Archive - Wayback Machine](https://archive.org/web/)
+	* [Chrome Developer Tools](https://developer.chrome.com/devtools)
+	* [CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * Web Resources  
 	* HTML
 		* MDN - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)  
@@ -43,43 +48,54 @@ Explorabe Stories Schedule
 	* CSS  
 		* MDN - [Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)  
 		* Web Platform - [Getting Started with CSS](https://docs.webplatform.org/wiki/guides/getting_started_with_css)  
+		* [Google Fonts](https://fonts.google.com/)
+		* [CSS Postioning 101](http://alistapart.com/article/css-positioning-101)
 	* Video Tutorials  
 		* [Don't Fear The Internet](http://www.dontfeartheinternet.com/)	
 		* [Lynda.com](http://www.nyu.edu/lynda) - HTML Essential Training  
 	* Interactive Tutorials  
 		* Codecademy - [HTML & CSS](http://www.codecademy.com/en/tracks/web)  
 		* Khan Academy - [HTML/CSS Making WebPages](https://www.khanacademy.org/computing/computer-programming/html-css)  
-* London References  
-	* [London DataStore](https://data.london.gov.uk/)
-	* [DATA.GOV.UK](https://data.gov.uk/)
-* Workshop - Web Design + Development
-	* [Cyberduck](https://cyberduck.io/?l=en)
+	* Design
+		* [Google Web Dev - Responsive Basics + Layouts](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
+		* [Google Web Dev - Responsive Web Design Patterns](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns?hl=en)
+		* [Design School for Developers](https://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)  
+	* Templates
+		* [HTML5 Boilerplate](https://html5boilerplate.com/)
+		* [Bootstrap](http://getbootstrap.com/) + [Boostrap Tutorial](https://www.sitepoint.com/understanding-twitter-bootstrap-3/)  
+* Workshop - Intro to Javascript (if time permits)
 * AFTERNOON TRIP: 1:15pm - 6pm    
 	* Science Museum - “Our Lives In Data”, “The Information Age”, & [“Statoil Wonderland”](https://beta.sciencemuseum.org.uk/wonderlab)   
 	* V&A Museum - [“You Say You Want A Revolution”](https://www.vam.ac.uk/articles/about-the-revolutions-exhibition)  
 * Homework  
+	* READ [Data + Design Ch.15 Importance of Color, Font, & Icons](https://infoactive.co/data-design/ch15)
 	* READ Seymour Papert’s “Mindstorms” Introduction + Ch.1 (pp. 3 - 37)
-	* DESCRIBE one noteworthy “experience” from the museum visit, i.e. an installation, exhibition, etc.  Attempt to categorize it as an “explanatory” or “exploratory” experience and explain why. Then, attempt to articulate what Seymour Papert would think of this “experience” and why? Include images of the ‘experience’ if possible.  
+	* DESCRIBE one noteworthy “experience” from the museum visit, i.e. an installation, exhibition, etc.  Attempt to categorize it as an “explanatory” or “exploratory” experience and explain why. Also, attempt to articulate what Seymour Papert would think of this “experience” and why? Include images of the ‘experience’ if possible.  
 	* POST your response to your web blog
 
 ###Class 3 (Fri 01/06) - Storytime
 * Share Homework  
-* Lecture - Storytelling  
-* Workshop - Audio Production  
+* Discuss Project #1
+* Lecture - Storytelling & Audio Production  
 * Workshop - Javascript & Web Interactions  
 * AFTERNOON TRIP: 1:30pm - 4pm    
 	* The Barbican Centre [“Let’s Take A Walk”](https://www.barbican.org.uk/education/event-detail.asp?ID=20143) by [Non Zero One](http://www.nonzeroone.com/)  
 * Homework  
 	* READ Chris Crawford’s “Chris Crawford on Interactive Storytelling” Ch.1 Storytelling
+	* READ [Javascript For Cats](http://jsforcats.com/)
 	* START Project #1  
-	* WRITE a blog post describing 2 possible sites/spaces/locations for Project #1.  
+	* WRITE a blog post describing a possible site/space/location for Project #1. What "story" do you want to tell and why?  
+
 
 ###Class 4 (Sat 01/07) - Making Things Interactivite
 * Share Homework  
-* Workshop - Javascript & Web Interactions Continued  
+* Workshop - Javascript & Web Interactions Continued 
+	* [jQuery](http://api.jquery.com/)  
+	* [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)   
 * Homework  
-	* READ Chris Crawford Ch.2 “Interactivity”  
-	* **FINISH Project #1**   
+	* READ Chris Crawford Ch.2 “Interactivity”
+	* **FINISH Project #1**  
+	* BONUS (NOT REQIURED) - [Codecademy: Make An Interactive Website](https://www.codecademy.com/skills/make-an-interactive-website)
 
 ###Class 5 (Mon 01/09) - Project #1 + Guest Paul May
 * Project #1 Due  
@@ -92,6 +108,9 @@ Explorabe Stories Schedule
 ###Class 6 (Tues 01/10)  
 * Share Ideas  
 * Discuss Crawford Readings  
+* London Data References  
+	* [London DataStore](https://data.london.gov.uk/)
+	* [DATA.GOV.UK](https://data.gov.uk/)
 * Workshop - p5.js  
 * Homework  
 	* READ Donella Meadows “Thinking In Systems” Introduction + Ch.1  

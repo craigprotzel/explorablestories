@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.main-container{
+	max-width: 1080px;
+	width: 90%;
+	margin: 10px auto; 
+}
+
+.top-container{
+	height: 100px;
+	background-color: blue;
+}
+
+.middle-container{
+	height: 400px;
+	background-color: aqua;
+}
+
+.bottom-container{
+	height:	100px;
+	background-color: gray;
+}
+
+@media (max-width: 580px) {
+  .main-container {
+    width: 75%;
+  }
+}
