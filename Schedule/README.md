@@ -1,12 +1,11 @@
 Explorabe Stories Schedule
 ==========================
 
-#### WEEK 1 - FOUNDATION
-#### WEEK 2 - EXPLORATION
-#### WEEK 3 - APPLICATION
+##### WEEK 1 - FOUNDATION
+##### WEEK 2 - EXPLORATION
+##### WEEK 3 - APPLICATION
 
-Class 1 (Wed 01/04)
--------------------
+###Class 1 (Wed 01/04)
 * Introduction - Nicky Case’s Parable of the Polygons  
 * Class Introduction  
 * Examples  
@@ -30,8 +29,7 @@ Class 1 (Wed 01/04)
 	* DESCRIBE a memorable educational experience from your childhood. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time? Was the experience an ‘explorable’ one or not? Were elements of either Piaget’s Constructivism or Papert’s Constructionism involved? Explain why or why not?  
 	* CREATE a web page with your writing response on it  
 
-Class 2 (Thurs 01/05)
----------------------
+###Class 2 (Thurs 01/05)
 * Share Homework
 * Discussion - Explanatory vs Exploratory
 * Workshop - Basic Web Development
@@ -43,8 +41,7 @@ Class 2 (Thurs 01/05)
 	* DESCRIBE one noteworthy “experience” from the museum visit, i.e. an installation, exhibition, etc.  Attempt to categorize it as an “explanatory” or “exploratory” experience and explain why. Then, attempt to articulate what Seymour Papert would think of this “experience” and why? Include images of the ‘experience’ if possible. 
 	* CREATE a web page with your writing response on it
 
-Class 3 (Fri 01/06)
--------------------
+###Class 3 (Fri 01/06)
 * Share Homework  
 * Lecture - Storytelling  
 * Workshop - Audio Production  
@@ -56,16 +53,14 @@ Class 3 (Fri 01/06)
 	* START Project #1  
 	* WRITE a blog post describing 2 possible locations for Project #1.  
 
-Class 4 (Sat 01/07)
--------------------
+###Class 4 (Sat 01/07)
 * Share Homework  
 * Workshop - Javascript & Web Interactions Continued  
 * Homework  
 	* READ Chris Crawford Ch.2 “Interactivity”  
 	* **FINISH Project #1**   
 
-Class 5 (Mon 01/09)
--------------------
+###Class 5 (Mon 01/09)
 * Project #1 Due  
 * Guest Visit - Paul May  
 * **EVENING TRIP**  
@@ -73,8 +68,7 @@ Class 5 (Mon 01/09)
 * Homework  
 	* TBD  
 
-Class 6 (Tues 01/10)
---------------------
+###Class 6 (Tues 01/10)
 * Share Ideas  
 * Discuss Crawford Readings  
 * Workshop - p5.js  
@@ -83,8 +77,7 @@ Class 6 (Tues 01/10)
 	* CREATE a ‘system’ that lives on a webpage using the p5 library  
 	* WRITE a blog post that embeds the above system and explains what you did.  
 
-Class 7 (Wed 01/11)
--------------------
+###Class 7 (Wed 01/11)
 * Share Homework  
 * Workshop - Coding Systems & Games  
 * Explore - Nicky Case Modeling Tool  
@@ -95,8 +88,7 @@ Class 7 (Wed 01/11)
 	* READ Nicky Case “I Do and I Understand”  
 	* WORK on Project #2  
 
-Class 8 (Thurs 01/12)
----------------------
+###Class 8 (Thurs 01/12)
 * Workshop - Coding Systems & Games Continued  
 * Workshop - More JS libraries (Tangle, NexusUI, jQueryUI)  
 * **AFTERNOON TRIP** 
@@ -105,8 +97,7 @@ Class 8 (Thurs 01/12)
 * Homework  
 	* **FINISH Project #2**
 
-Class 9  (Fri 01/13 - **Meet In the Afternoon**)
-------------------------------------------------
+###Class 9  (Fri 01/13 - **Meet In the Afternoon**)
 * Project #2 Due  
 * Guest  Visit - Dirichi D’Ike-njoku  
 * Discuss - Final Project  
@@ -116,8 +107,7 @@ Class 9  (Fri 01/13 - **Meet In the Afternoon**)
 	* THINK about 2 possible ideas for Project #2.   
 	* WRITE a blog post that describes both ideas. Have at least one “reference” for each idea. Be prepared to share your ideas in class.   
  
-Class 10 (Mon 01/16)
---------------------
+###Class 10 (Mon 01/16)
 * Share Homework
 * Workshop - Writing Your Story
 * Workshop - Content Production
@@ -125,8 +115,7 @@ Class 10 (Mon 01/16)
 	* READ TBD
 	* WORK on Final Project
 
-Class 11 (Tues 01/17)
----------------------
+###Class 11 (Tues 01/17)
 * Workshop - TBD  
 * **AFTERNOON TRIP**  
 	* Technology Will Save Us + Hirsch & Mann with NYU ITP Alumni Daniel Hirschmann  
@@ -134,16 +123,14 @@ Class 11 (Tues 01/17)
 	* READ Papert Ch. 8
 	* WORK on Final Project  
 
-Class 12 (Wed 01/18)
---------------------
+###Class 12 (Wed 01/18)
 * Share Final Project Update  
 * Discuss Reading  
 * Workshop - Final Project  
 * Homework  
 	* FINISH Final Project  
 
-Class 13 (Thurs 01/19)
-----------------------
+###Class 13 (Thurs 01/19)
 * Final Project Due  
 * Guest Visit - TBD  
 * Course Review  
