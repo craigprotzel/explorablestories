@@ -1,6 +1,6 @@
-Explorable Stories
-==================
-(always subject to change)
+Explorable Stories*
+===================
+(*Always subject to change)
 
 School: [NYU - Abu Dhabi](http://nyuad.nyu.edu/en/)  
 Semester: January 2017  
@@ -75,23 +75,23 @@ We will take several trips around London to gain inspiration and insight into th
 * Technology Will Save Us + Hirsch & Mann with NYU Alum Daniel Hirschmann (01/17)  
 
 ###Class Guests
-Paul May, Creative Technologist, Instructor RCA, formerly Sloan-Kettering Innovation Lab, NYU ITP Masters Alumni (01/09)  
-Dirichi D’Ike-njoku, NYUAD Alumni, Web App Developer (01/13)   
+* Paul May - Creative Technologist, Instructor RCA, formerly Sloan-Kettering Innovation Lab, NYU ITP Masters Alumni (01/09)  
+* Dirichi D’Ike-njoku - NYUAD Alumni, Web App Developer (01/13)   
 
 ###Required  Texts
-Papert, Seymour, Mindstorms (Basic Books, 1993)  
+* Papert, Seymour, Mindstorms (Basic Books, 1993)  
 
 ###Supplemental Texts
 (These readings will either be distributed or available online)  
-Piaget, Jean, To Understand Is To Invent: The Future of Education (Grossman, 1973)  
-Meadows, Donella, Thinking In Systems: A Primer (Earthscan, 2001)  
-Manovich, Lev, The Language of New Media (MIT Press 2001)  
-Victor, Bret, Explorable Explanations ([worrydream.com/ExplorableExplanations](http://worrydream.com/ExplorableExplanations/), 2011)  
-Crawford, Chris, Chris Crawford on Interactive Storytelling (New Riders, 2013)  
-Victor, Bret, Media For Thinking the Unthinkable ([worrydream.com/MediaForThinkingTheUnthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) , 2013)  
-Bostock, Mike, Visualizing Algorithms (bost.ocks.org, 2014)  
-Ford, Paul, What Is Code? (Bloomberg, 2015)  
-Case, Nicky, Explorable Explanations ([explorableexplanations.com](http://explorableexplanations.com/), 2016)  
+* Piaget, Jean, To Understand Is To Invent: The Future of Education (Grossman, 1973)  
+* Meadows, Donella, Thinking In Systems: A Primer (Earthscan, 2001)  
+* Manovich, Lev, The Language of New Media (MIT Press 2001)  
+* Victor, Bret, Explorable Explanations ([worrydream.com/ExplorableExplanations](http://worrydream.com/ExplorableExplanations/), 2011)  
+* Crawford, Chris, Chris Crawford on Interactive Storytelling (New Riders, 2013)  
+* Victor, Bret, Media For Thinking the Unthinkable ([worrydream.com/MediaForThinkingTheUnthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) , 2013)  
+* Bostock, Mike, Visualizing Algorithms (bost.ocks.org, 2014)  
+* Ford, Paul, What Is Code? (Bloomberg, 2015)  
+* Case, Nicky, Explorable Explanations ([explorableexplanations.com](http://explorableexplanations.com/), 2016)  
 
 ###Attendance & Participation
 * Students are expected to attend ALL classes and actively engage in ALL discussions, exercises, and activities.   
