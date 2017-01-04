@@ -72,10 +72,10 @@ We will take several trips around London to gain inspiration and insight into th
 * Gielgud Theatre (01/09)  
 * JWT London Ad Agency  with NYUAD Alum Jamie Sutherland (01/11)
 * The New Tate Modern (01/12)  
-* Technology Will Save Us +  Hirsch & Mann  with NYU Alum Daniel Hirschmann (01/17)  
+* Technology Will Save Us + Hirsch & Mann with NYU Alum Daniel Hirschmann (01/17)  
 
 ###Class Guests
-Paul May, Creative Technologist, Instructor RCA, formerly Sloan-Kettering Innovation Lab,, NYU ITP Masters Alumni (01/09)  
+Paul May, Creative Technologist, Instructor RCA, formerly Sloan-Kettering Innovation Lab, NYU ITP Masters Alumni (01/09)  
 Dirichi D’Ike-njoku, NYUAD Alumni, Web App Developer (01/13)   
 
 ###Required  Texts
@@ -86,12 +86,12 @@ Papert, Seymour, Mindstorms (Basic Books, 1993)
 Piaget, Jean, To Understand Is To Invent: The Future of Education (Grossman, 1973)  
 Meadows, Donella, Thinking In Systems: A Primer (Earthscan, 2001)  
 Manovich, Lev, The Language of New Media (MIT Press 2001)  
-Victor, Bret, Explorable Explanations (worrydream.com, 2011)  
+Victor, Bret, Explorable Explanations ([worrydream.com/ExplorableExplanations](http://worrydream.com/ExplorableExplanations/), 2011)  
 Crawford, Chris, Chris Crawford on Interactive Storytelling (New Riders, 2013)  
-Victor, Bret, Media For Thinking the Unthinkable (worrydream.com, vimeo.com/worrydream , 2013)  
+Victor, Bret, Media For Thinking the Unthinkable ([worrydream.com/MediaForThinkingTheUnthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) , 2013)  
 Bostock, Mike, Visualizing Algorithms (bost.ocks.org, 2014)  
 Ford, Paul, What Is Code? (Bloomberg, 2015)  
-Case, Nicky, Explorable Explanations (explorableexplanations.com, 2016)  
+Case, Nicky, Explorable Explanations ([explorableexplanations.com](http://explorableexplanations.com/), 2016)  
 
 ###Attendance & Participation
 * Students are expected to attend ALL classes and actively engage in ALL discussions, exercises, and activities.   
