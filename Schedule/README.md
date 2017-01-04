@@ -28,19 +28,33 @@ Explorabe Stories Schedule
 	* REVIEW examples above
 	* WATCH Bret Victor’s [“Media for Thinking the Unthinkable”](http://worrydream.com/MediaForThinkingTheUnthinkable/) (40 mins)  
 	* READ Bret Victor’s [“Explorable Explanations”](http://worrydream.com/ExplorableExplanations/)
-	* READ Erin Ackerman’s [“Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?”]()
+	* READ Erin Ackerman’s [“Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?”](http://learning.media.mit.edu/content/publications/EA.Piaget%20_%20Papert.pdf)
 	* DESCRIBE a memorable educational experience from your childhood. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time? Was the experience an ‘explorable’ one or not? Were elements of either Piaget’s Constructivism or Papert’s Constructionism involved? Explain why or why not?  
 	* CREATE a web page with your writing response on it  
 
 ###Class 2 (Thurs 01/05) - Explain vs Explore
 * Share Homework
 * Discussion - Explanatory vs Exploratory
+* Web Resources  
+	* HTML
+		* MDN - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)  
+		* MDN - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
+		* Web Platform - [The Basics of HTML](https://docs.webplatform.org/wiki/guides/the_basics_of_html)  
+	* CSS  
+		* MDN - [Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)  
+		* Web Platform - [Getting Started with CSS](https://docs.webplatform.org/wiki/guides/getting_started_with_css)  
+	* Video Tutorials  
+		* [Don't Fear The Internet](http://www.dontfeartheinternet.com/)	
+		* [Lynda.com](http://www.nyu.edu/lynda) - HTML Essential Training  
+	* Interactive Tutorials  
+		* Codecademy - [HTML & CSS](http://www.codecademy.com/en/tracks/web)  
+		* Khan Academy - [HTML/CSS Making WebPages](https://www.khanacademy.org/computing/computer-programming/html-css)  
 * London References  
 	* [London DataStore](https://data.london.gov.uk/)
 	* [DATA.GOV.UK](https://data.gov.uk/)
 * Workshop - Web Design + Development
 	* [Cyberduck](https://cyberduck.io/?l=en)
-* **AFTERNOON TRIP**  
+* AFTERNOON TRIP: 1:15pm - 6pm    
 	* Science Museum - “Our Lives In Data”, “The Information Age”, & [“Statoil Wonderland”](https://beta.sciencemuseum.org.uk/wonderlab)   
 	* V&A Museum - [“You Say You Want A Revolution”](https://www.vam.ac.uk/articles/about-the-revolutions-exhibition)  
 * Homework  
@@ -53,7 +67,7 @@ Explorabe Stories Schedule
 * Lecture - Storytelling  
 * Workshop - Audio Production  
 * Workshop - Javascript & Web Interactions  
-* **AFTERNOON TRIP**  
+* AFTERNOON TRIP: 1:30pm - 4pm    
 	* The Barbican Centre [“Let’s Take A Walk”](https://www.barbican.org.uk/education/event-detail.asp?ID=20143) by [Non Zero One](http://www.nonzeroone.com/)  
 * Homework  
 	* READ Chris Crawford’s “Chris Crawford on Interactive Storytelling” Ch.1 Storytelling
@@ -70,7 +84,7 @@ Explorabe Stories Schedule
 ###Class 5 (Mon 01/09) - Project #1 + Guest Paul May
 * Project #1 Due  
 * Guest Visit - Paul May  
-* **EVENING TRIP**  
+* EVENING TRIP: 6:45pm - 10pm  
 	* The Gielgud Theatre - “The Curious Incident of the Dog In the Nighttime”  
 * Homework  
 	* TBD  
@@ -88,7 +102,7 @@ Explorabe Stories Schedule
 * Share Homework  
 * Workshop - Coding Systems & Games  
 * Explore - Nicky Case Modeling Tool  
-* **AFTERNOON TRIP**  
+* AFTERNOON TRIP: 1:30pm - 4pm  
 	* J. Walter Thompson Ad Agency with NYUAD Alum Jamie Sutherland Visit   
 * Homework  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
@@ -98,7 +112,7 @@ Explorabe Stories Schedule
 ###Class 8 (Thurs 01/12)   
 * Workshop - Coding Systems & Games Continued  
 * Workshop - More JS libraries (Tangle, NexusUI, jQueryUI)  
-* **AFTERNOON TRIP** 
+* AFTERNOON TRIP: 1pm - 4:30pm  
 	* “Borough Market” for Lunch
 	* “The New Tate Modern” - “Media Networks” Exhibit + Main Gallery Installation
 * Homework  
@@ -124,7 +138,7 @@ Explorabe Stories Schedule
 
 ###Class 11 (Tues 01/17)
 * Workshop - TBD  
-* **AFTERNOON TRIP**  
+* AFTERNOON TRIP: 1:30pm - 4:30pm   
 	* Technology Will Save Us + Hirsch & Mann with NYU ITP Alumni Daniel Hirschmann  
 * Homework  
 	* READ Papert Ch. 8
