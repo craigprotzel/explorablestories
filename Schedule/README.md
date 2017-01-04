@@ -6,7 +6,7 @@ Explorabe Stories Schedule
 * WEEK 2 - EXPLORATION  
 * WEEK 3 - APPLICATION  
 
-###Class 1 (Wed 01/04)
+###Class 1 (Wed 01/04) - An Introduction to Exploration
 * Introduction - Nicky Case’s [Parable of the Polygons](http://ncase.me/polygons/)  
 * Class Introduction  
 * Examples  
@@ -30,7 +30,7 @@ Explorabe Stories Schedule
 	* DESCRIBE a memorable educational experience from your childhood. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time? Was the experience an ‘explorable’ one or not? Were elements of either Piaget’s Constructivism or Papert’s Constructionism involved? Explain why or why not?  
 	* CREATE a web page with your writing response on it  
 
-###Class 2 (Thurs 01/05)
+###Class 2 (Thurs 01/05) - Explain vs Explore
 * Share Homework
 * Discussion - Explanatory vs Exploratory
 * London References  
@@ -46,7 +46,7 @@ Explorabe Stories Schedule
 	* DESCRIBE one noteworthy “experience” from the museum visit, i.e. an installation, exhibition, etc.  Attempt to categorize it as an “explanatory” or “exploratory” experience and explain why. Then, attempt to articulate what Seymour Papert would think of this “experience” and why? Include images of the ‘experience’ if possible.  
 	* POST your response to your web blog
 
-###Class 3 (Fri 01/06)
+###Class 3 (Fri 01/06) - Storytime
 * Share Homework  
 * Lecture - Storytelling  
 * Workshop - Audio Production  
@@ -58,14 +58,14 @@ Explorabe Stories Schedule
 	* START Project #1  
 	* WRITE a blog post describing 2 possible sites/spaces/locations for Project #1.  
 
-###Class 4 (Sat 01/07)
+###Class 4 (Sat 01/07) - Making Things Interactivite
 * Share Homework  
 * Workshop - Javascript & Web Interactions Continued  
 * Homework  
 	* READ Chris Crawford Ch.2 “Interactivity”  
 	* **FINISH Project #1**   
 
-###Class 5 (Mon 01/09)
+###Class 5 (Mon 01/09) - Project #1 + Guest Paul May
 * Project #1 Due  
 * Guest Visit - Paul May  
 * **EVENING TRIP**  
@@ -73,7 +73,7 @@ Explorabe Stories Schedule
 * Homework  
 	* TBD  
 
-###Class 6 (Tues 01/10)
+###Class 6 (Tues 01/10)  
 * Share Ideas  
 * Discuss Crawford Readings  
 * Workshop - p5.js  
@@ -82,7 +82,7 @@ Explorabe Stories Schedule
 	* CREATE a ‘system’ that lives on a webpage using the p5 library  
 	* WRITE a blog post that embeds the above system and explains what you did.  
 
-###Class 7 (Wed 01/11)
+###Class 7 (Wed 01/11)   
 * Share Homework  
 * Workshop - Coding Systems & Games  
 * Explore - Nicky Case Modeling Tool  
@@ -93,7 +93,7 @@ Explorabe Stories Schedule
 	* READ Nicky Case “I Do and I Understand”  
 	* WORK on Project #2  
 
-###Class 8 (Thurs 01/12)
+###Class 8 (Thurs 01/12)   
 * Workshop - Coding Systems & Games Continued  
 * Workshop - More JS libraries (Tangle, NexusUI, jQueryUI)  
 * **AFTERNOON TRIP** 
@@ -102,7 +102,7 @@ Explorabe Stories Schedule
 * Homework  
 	* **FINISH Project #2**
 
-###Class 9  (Fri 01/13 - **Meet In the Afternoon**)
+###Class 9  (Fri 01/13 - **Meet In the Afternoon**) - Project #2 + Guest Dirichi D’Ike-njoku
 * Project #2 Due  
 * Guest  Visit - Dirichi D’Ike-njoku  
 * Discuss - Final Project  
@@ -135,7 +135,7 @@ Explorabe Stories Schedule
 * Homework  
 	* FINISH Final Project  
 
-###Class 13 (Thurs 01/19)
+###Class 13 (Thurs 01/19) - Final Class
 * Final Project Due  
 * Guest Visit - TBD  
 * Course Review  
