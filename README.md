@@ -16,7 +16,7 @@ Email: craig.protzel@nyu.edu
 Office Hours: TBD
 
 ###Course Description
-The fundamental building blocks of good storytelling have remained consistent throughout history. What constantly changes though are the technologies, including tools, mediums and platforms, through which stories are communicated. In this class, we will utilize one of today's dominant platform for communication, the world wide web, to create and share stories that are engaging, interactive, and “explorable”.   
+The fundamental building blocks of good storytelling have remained consistent throughout history. What constantly changes though are the technologies, including tools, mediums and platforms, through which stories are communicated. In this class, we will utilize one of today's dominant platforms for communication, the world wide web, to create and share stories that are engaging, interactive, and “explorable”.   
 
 But what does it mean for a story to be “explorable”? In terms of the modern web, does allowing a user to click and swipe make something “explorable”? Does that mean it is interactive? Is there a difference? This course will embrace the principles of constructivist learning theory to help answer these questions. Coupling an active learning approach with a foundation in network systems thinking, we will challenge ourselves to produce stories that empower users to become active media consumers. Can we design opportunities for inquiry, creativity, and discovery?  Fortunately, current web browsers offer an open computational playground where we can generate, share, and test these very ideas.   
 
