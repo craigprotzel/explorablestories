@@ -1,7 +1,7 @@
 Explorabe Stories Schedule
 ==========================
 
-##### STRUCTURE  
+###STRUCTURE  
 * WEEK 1 - FOUNDATION  
 * WEEK 2 - EXPLORATION  
 * WEEK 3 - APPLICATION  
