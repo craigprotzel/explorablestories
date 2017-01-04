@@ -1,9 +1,10 @@
 Explorabe Stories Schedule
 ==========================
 
-##### WEEK 1 - FOUNDATION
-##### WEEK 2 - EXPLORATION
-##### WEEK 3 - APPLICATION
+##### STRUCTURE  
+	* WEEK 1 - FOUNDATION  
+	* WEEK 2 - EXPLORATION  
+	* WEEK 3 - APPLICATION  
 
 ###Class 1 (Wed 01/04)
 * Introduction - Nicky Case’s Parable of the Polygons  
