@@ -21,9 +21,11 @@ Explorabe Stories Schedule
 	* WebKid - [Awesome Interactive Journalism Repo](https://github.com/wbkd/awesome-interactive-journalism)  
 	* Chris Milk & Aaron Koblin - [The Exquisite Forest](http://www.exquisiteforest.com/)  
 * Student Introductions
-* Lecture - www.101
-* Workshop - Making A Web Page
+* Lecture - WWW 101
+* Workshop - Making A Web Page  
+	* Download an IDE Text Editor - Recommend [SublimeText](https://www.sublimetext.com/3)
 * Homework  
+	* REVIEW examples above
 	* WATCH Bret Victor’s [“Media for Thinking the Unthinkable”](http://worrydream.com/MediaForThinkingTheUnthinkable/) (40 mins)  
 	* READ Bret Victor’s [“Explorable Explanations”](http://worrydream.com/ExplorableExplanations/)
 	* READ Erin Ackerman’s [“Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?”]()
@@ -36,7 +38,7 @@ Explorabe Stories Schedule
 * London References  
 	* [London DataStore](https://data.london.gov.uk/)
 	* [DATA.GOV.UK](https://data.gov.uk/)
-* Workshop - Basic Web Development + SFTP
+* Workshop - Web Design + Development
 	* [Cyberduck](https://cyberduck.io/?l=en)
 * **AFTERNOON TRIP**  
 	* Science Museum - “Our Lives In Data”, “The Information Age”, & [“Statoil Wonderland”](https://beta.sciencemuseum.org.uk/wonderlab)   

@@ -41,12 +41,12 @@ This course, embracing an active learning approach, will be both seminar and stu
 * Share - describe, document, communicate, contribute, participate
 
 ###Grading
-**10%** Attendance
-**10%** Class Participation
-**25%** Homework Assignments 
-**15%** Project #1
-**15%** Project #2
-**25%** Final Project
+**10%** Attendance  
+**10%** Class Participation  
+**25%** Homework Assignments  
+**15%** Project #1  
+**15%** Project #2  
+**25%** Final Project  
 
 ###Homework Assignments
 In addition to the assigned readings, we will be exploring and engaging in hands-on exercises. You will be expected to utilize a web blog* to document your work, describe your experiences, and draw connections to course readings, presentations, and discussions. Your posts should include at least a half page to a page of original writing (approx. 200 - 400 words) plus any other requested media assets such as photos, sound, video, code etc.
