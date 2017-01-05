@@ -33,8 +33,6 @@ Explorabe Stories Schedule
 	* CREATE a web page with your writing response on it  
 
 ###Class 2 (Thurs 01/05) - Explain & Explore
-* Upload Homework
-	* [Cyberduck](https://cyberduck.io/?l=en)
 * Share Homework  
 * Workshop - Web Design + Development	
 	* [The Internet Archive - Wayback Machine](https://archive.org/web/)
@@ -70,13 +68,15 @@ Explorabe Stories Schedule
 * Homework  
 	* READ [Data + Design Ch.15 Importance of Color, Font, & Icons](https://infoactive.co/data-design/ch15)
 	* READ Seymour Papert’s “Mindstorms” Introduction + Ch.1 (pp. 3 - 37)
-	* DESCRIBE one noteworthy “experience” from the museum visit, i.e. an installation, exhibition, etc.  Attempt to categorize it as an “explanatory” or “exploratory” experience and explain why. Also, attempt to articulate what Seymour Papert would think of this “experience” and why? Include images of the ‘experience’ if possible.  
+	* DESCRIBE one noteworthy “experience” from the museum visit, i.e. an installation, exhibition, etc.  Attempt to categorize it as an “explanatory” or “exploratory” experience and explain why. Also, attempt to articulate what Seymour Papert would think of this “experience” and why? Include images of the "experience" if possible.  
 	* POST your response to your web blog
 
-###Class 3 (Fri 01/06) - Storytime
+###Class 3 (Fri 01/06) - Web Work
+* Setup Web Space & Upload Homework(s)  
+	* [Cyberduck](https://cyberduck.io/?l=en)
 * Share Homework  
 * Discuss Project #1
-* Lecture - Storytelling & Audio Production  
+* Workshop - CSS
 * Workshop - Javascript & Web Interactions  
 * AFTERNOON TRIP: 1:30pm - 4:30pm    
 	* The Barbican Centre [“Let’s Take A Walk”](https://www.barbican.org.uk/education/event-detail.asp?ID=20143) by [Non Zero One](http://www.nonzeroone.com/)  
@@ -87,8 +87,9 @@ Explorabe Stories Schedule
 	* WRITE a blog post describing a possible site/space/location for Project #1. What "story" do you want to tell and why?  
 
 
-###Class 4 (Sat 01/07) - Making Things Interactivite
+###Class 4 (Sat 01/07) - Storytime
 * Share Homework  
+* Lecture - Storytelling & Audio Production  
 * Workshop - Javascript & Web Interactions Continued 
 	* [jQuery](http://api.jquery.com/)  
 	* [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)   
@@ -151,8 +152,8 @@ Explorabe Stories Schedule
 * Share Homework
 * Workshop - Writing Your Story
 * Workshop - Content Production
-* Homework
-	* READ TBD
+* Homework  
+	* READ TBD  
 	* WORK on Final Project
 
 ###Class 11 (Tues 01/17)
