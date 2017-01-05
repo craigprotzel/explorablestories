@@ -9,6 +9,7 @@ Working individually or with a partner, create a web experience that tells a “
 * Incorporate some basic form(s) of interactivity such as “click events”.
 * Be constructed around or directly related to a specific location in London.   
 Feel free to use “Let’s Take A Walk” as both model and inspiration. Code examples will be provided to help with some of the technical aspects. Be prepared to present and share your project with the class.  
+
 The grading rubric for this first assignment is the following:
 * 10: Markup/Code Quality - Legibility, management, clarity, comments
 * 10: Technical Implementation - Demonstrate an understanding of the material, specifically the use of HTML, CSS and javascript
