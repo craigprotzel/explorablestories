@@ -2,7 +2,7 @@ Explorabe Stories Projects
 ==========================
 
 ###Project #1
-**Due Monday 01/09**
+**Due Monday 01/09**  
 Working individually or with a partner, create a web experience that tells a “site-specific story” on a topic of your choice. The experience should:
 * Incude at least 2-3 pages of written material
 * Utilize some form(s) of "multi-media" such as sound, images, or video
