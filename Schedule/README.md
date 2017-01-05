@@ -64,7 +64,7 @@ Explorabe Stories Schedule
 		* [HTML5 Boilerplate](https://html5boilerplate.com/)
 		* [Bootstrap](http://getbootstrap.com/) + [Boostrap Tutorial](https://www.sitepoint.com/understanding-twitter-bootstrap-3/)  
 * Workshop - Intro to Javascript (if time permits)
-* AFTERNOON TRIP: 1:15pm - 6pm    
+* AFTERNOON TRIP: 1pm - 6pm    
 	* Science Museum - “Our Lives In Data”, “The Information Age”, & [“Statoil Wonderland”](https://beta.sciencemuseum.org.uk/wonderlab)   
 	* V&A Museum - [“You Say You Want A Revolution”](https://www.vam.ac.uk/articles/about-the-revolutions-exhibition)  
 * Homework  
@@ -78,7 +78,7 @@ Explorabe Stories Schedule
 * Discuss Project #1
 * Lecture - Storytelling & Audio Production  
 * Workshop - Javascript & Web Interactions  
-* AFTERNOON TRIP: 1:30pm - 4pm    
+* AFTERNOON TRIP: 1:30pm - 4:30pm    
 	* The Barbican Centre [“Let’s Take A Walk”](https://www.barbican.org.uk/education/event-detail.asp?ID=20143) by [Non Zero One](http://www.nonzeroone.com/)  
 * Homework  
 	* READ Chris Crawford’s “Chris Crawford on Interactive Storytelling” Ch.1 Storytelling
