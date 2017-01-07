@@ -1,0 +1,74 @@
+body{
+	font-size: 24px;
+	font-family: 'Jura', sans-serif;
+}
+
+p{
+	text-align: center;
+}
+
+img,iframe{
+	display: block;
+	margin: 0 auto;
+	width: 75%;
+}
+
+.main-container{
+	max-width: 1080px;
+	width: 90%;
+	margin: 0 auto; 
+}
+
+.about-link{
+	position: absolute;
+	top: 10px;
+	right: 20px;
+}
+
+.header{
+	text-align: center;
+	font-size: 2em;
+	margin-top: 30px;
+}
+
+.buttons{
+	width: 90%;
+	margin: 60px auto 40px;
+}
+
+/*Buttons in a row*/
+.button-main{
+	width: 22%;
+	height: 42px;
+	font-size: 0.6em;
+	margin: 0 5%; 
+	background-color: rgb(157,180,255);
+}
+
+/*Buttons in a column*/
+/*.button-main{
+	display: block;
+	width: 30%;
+	height: 60px;
+	font-size: 0.7em;
+	margin: 20px 35%;
+	background-color: rgb(157,180,255);	
+}
+*/
+
+.button-main:hover{
+	background-color: rgb(0,45,195);
+	color: white;	
+}
+
+.description{
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.content{
+	display: none;
+	margin-top: 40px;
+}
+
+
