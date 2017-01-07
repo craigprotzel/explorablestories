@@ -76,8 +76,7 @@ Explorabe Stories Schedule
 	* [Cyberduck](https://cyberduck.io/?l=en)
 * Share Homework  
 * Discuss Project #1
-* Workshop - CSS
-* Workshop - Javascript & Web Interactions  
+* Workshop - CSS 
 * AFTERNOON TRIP: 1:30pm - 4:30pm    
 	* The Barbican Centre [“Let’s Take A Walk”](https://www.barbican.org.uk/education/event-detail.asp?ID=20143) by [Non Zero One](http://www.nonzeroone.com/)  
 * Homework  
@@ -88,9 +87,11 @@ Explorabe Stories Schedule
 
 ###Class 4 (Sat 01/07) - Storytime
 * Share Homework  
-* Lecture - Storytelling & Audio Production  
+* Discussion - Storytelling & Audio Production  
+	* Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI)
 	* [Audacity](http://www.audacityteam.org/)
-* Workshop - Javascript & Web Interactions Continued 
+* Workshop - Intro to Javascript & Web Interactions   
+	* MDN - [What Is Javascript, Really?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 	* [jQuery](http://api.jquery.com/)  
 	* [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)   
 * Homework  
