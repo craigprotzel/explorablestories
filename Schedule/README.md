@@ -86,10 +86,10 @@ Explorabe Stories Schedule
 	* START Project #1  
 	* WRITE a blog post describing a possible site/space/location for Project #1. What "story" do you want to tell and why?  
 
-
 ###Class 4 (Sat 01/07) - Storytime
 * Share Homework  
 * Lecture - Storytelling & Audio Production  
+	* [Audacity](http://www.audacityteam.org/)
 * Workshop - Javascript & Web Interactions Continued 
 	* [jQuery](http://api.jquery.com/)  
 	* [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)   
@@ -98,41 +98,43 @@ Explorabe Stories Schedule
 	* **FINISH Project #1**  
 	* BONUS (NOT REQIURED) - [Codecademy: Make An Interactive Website](https://www.codecademy.com/skills/make-an-interactive-website)
 
-###Class 5 (Mon 01/09) - Project #1 + Guest Paul May
+###Class 5 (Mon 01/09) - Project #1 + Guest Paul May  
 * Project #1 Due  
 * Guest Visit - Paul May  
 * EVENING TRIP: 6:45pm - 10pm  
 	* The Gielgud Theatre - “The Curious Incident of the Dog In the Nighttime”  
 * Homework  
-	* TBD  
+	* WATCH ["Hello p5JS"](http://hello.p5js.org/)(8 min)
+	* THINK about Project 2/3 and what you might want to create. No need to post anything, just come to class with an idea or two to share.  
 
 ###Class 6 (Tues 01/10)  
 * Share Ideas  
-* Discuss Crawford Readings  
+* Discuss Crawford Reading(s)  
 * London Data References  
 	* [London DataStore](https://data.london.gov.uk/)
 	* [DATA.GOV.UK](https://data.gov.uk/)
 * Workshop - p5.js  
 * Homework  
 	* READ Donella Meadows “Thinking In Systems” Introduction + Ch.1  
-	* CREATE a ‘system’ that lives on a webpage using the p5 library  
-	* WRITE a blog post that embeds the above system and explains what you did.  
+	* FIND at least one “reference” idea. Be prepared to share your ideas in class.     
+	* CREATE a p5 sketch that inspired by your "reference" idea.
+	* WRITE a post that outlines your idea/reference and includes the p5 sketch.   
 
 ###Class 7 (Wed 01/11)   
 * Share Homework  
 * Workshop - Coding Systems & Games  
 * Explore - Nicky Case Modeling Tool  
-* AFTERNOON TRIP: 1:30pm - 4pm  
+* AFTERNOON TRIP: 1:15pm - 4pm  
 	* J. Walter Thompson Ad Agency with NYUAD Alum Jamie Sutherland Visit   
 * Homework  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
 	* READ Nicky Case “I Do and I Understand”  
-	* WORK on Project #2  
+	* CREATE a ‘system’ using p5.js that is related to your project and lives on a webpage
 
 ###Class 8 (Thurs 01/12)   
 * Workshop - Coding Systems & Games Continued  
 * Workshop - More JS libraries (Tangle, NexusUI, jQueryUI)  
-* AFTERNOON TRIP: 1pm - 4:30pm  
+* AFTERNOON TRIP: 12:15pm - 4:30pm  
 	* “Borough Market” for Lunch
 	* “The New Tate Modern” - “Media Networks” Exhibit + Main Gallery Installation
 * Homework  
@@ -140,13 +142,11 @@ Explorabe Stories Schedule
 
 ###Class 9  (Fri 01/13 - **Meet In the Afternoon**) - Project #2 + Guest Dirichi D’Ike-njoku
 * Project #2 Due  
-* Guest  Visit - Dirichi D’Ike-njoku  
-* Discuss - Final Project  
+* Guest  Visit - Dirichi D’Ike-njoku    
 * Homework  
 	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
 	* WATCH TBD  
-	* THINK about 2 possible ideas for Project #2.   
-	* WRITE a blog post that describes both ideas. Have at least one “reference” for each idea. Be prepared to share your ideas in class.   
+	* WRITE a blog post that describes the feedback you received on Project #2 and what you plan to do for the Final Project.
  
 ###Class 10 (Mon 01/16)
 * Share Homework
