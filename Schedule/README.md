@@ -145,7 +145,7 @@ Explorabe Stories Schedule
 * Homework  
 	* **FINISH Project #2**
 
-###Class 9  (Fri 01/13 - **Meet In the Afternoon**) - Project #2 + Guest Dirichi D’Ike-njoku
+###Class 9  (Fri 01/13 - __Meet In the Afternoon__) - Project #2 + Guest Dirichi D’Ike-njoku
 * Project #2 Due  
 * Guest  Visit - Dirichi D’Ike-njoku    
 * Homework  
