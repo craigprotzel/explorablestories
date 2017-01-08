@@ -21,7 +21,7 @@ Explorabe Stories Schedule
 	* WebKid - [Awesome Interactive Journalism Repo](https://github.com/wbkd/awesome-interactive-journalism)  
 	* Chris Milk & Aaron Koblin - [The Exquisite Forest](http://www.exquisiteforest.com/)  
 * Student Introductions
-* Lecture - WWW 101
+* Lecture - [WWW 101](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Web101.pdf)
 * Workshop - Making A Web Page  
 	* Download an IDE Text Editor - Recommend [SublimeText](https://www.sublimetext.com/3)
 * Homework  
@@ -88,7 +88,7 @@ Explorabe Stories Schedule
 ###Class 4 (Sat 01/07) - Storytime
 * Share Homework  
 * Discussion - Storytelling & Audio Production  
-	* [Storytelling Slides]()
+	* [Storytelling Crash Course Slides](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
 	* Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI)
 	* [Audacity](http://www.audacityteam.org/)
 * Workshop - Intro to Javascript & Web Interactions   
