@@ -138,6 +138,7 @@ Explorabe Stories Schedule
 	* CREATE a "system" using p5.js that is related to your project and lives on a webpage
 
 ###Class 8 (Thurs 01/12)   
+* Share Homework  
 * Workshop - User Testing  
 * AFTERNOON TRIP: 12:00pm - 4:30pm  
 	* “Borough Market” for Lunch
