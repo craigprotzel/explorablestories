@@ -88,6 +88,7 @@ Explorabe Stories Schedule
 ###Class 4 (Sat 01/07) - Storytime
 * Share Homework  
 * Discussion - Storytelling & Audio Production  
+	* [Storytelling Slides]()
 	* Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI)
 	* [Audacity](http://www.audacityteam.org/)
 * Workshop - Intro to Javascript & Web Interactions   
@@ -95,47 +96,50 @@ Explorabe Stories Schedule
 	* [jQuery](http://api.jquery.com/)  
 	* [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)   
 * Homework  
-	* READ Chris Crawford Ch.2 “Interactivity”
 	* **FINISH Project #1**  
 	* BONUS (NOT REQIURED) - [Codecademy: Make An Interactive Website](https://www.codecademy.com/skills/make-an-interactive-website)
 
 ###Class 5 (Mon 01/09) - Project #1 + Guest Paul May  
 * Project #1 Due  
 * Guest Visit - Paul May  
-* EVENING TRIP: 6:45pm - 10pm  
-	* The Gielgud Theatre - “The Curious Incident of the Dog In the Nighttime”  
+* EVENING TRIP: 6:30pm - 10pm  
+	* [The Gielgud Theatre](https://www.google.co.uk/maps/place/Gielgud+Theatre/@51.5116819,-0.133005,15z/data=!4m2!3m1!1s0x0:0x433d5aa3834c103d?sa=X&ved=0ahUKEwiKt82CnrPRAhVMOxoKHSSABTAQ_BIIfzAK) - [“The Curious Incident of the Dog In the Nighttime”](http://www.curiousonstage.com/)  
 * Homework  
-	* WATCH ["Hello p5JS"](http://hello.p5js.org/)(8 min)
-	* THINK about Project 2/3 and what you might want to create. No need to post anything, just come to class with an idea or two to share.  
+	* READ Chris Crawford Ch.2 “Interactivity”
 
 ###Class 6 (Tues 01/10)  
-* Share Ideas  
-* Discuss Crawford Reading(s)  
+* Discuss Crawford Ch.2 "Interactivity"
+	* [NY Times Interactive Sgtories - Rio Olympics 2016](http://www.nytimes.com/spotlight/rio-olympics-2016-interactive-stories)  
+	* [Jack Schaedler - Back to the Future of Handwriting](http://jackschaedler.github.io/handwriting-recognition/)
 * London Data References  
 	* [London DataStore](https://data.london.gov.uk/)
-	* [DATA.GOV.UK](https://data.gov.uk/)
-* Workshop - p5.js  
+	* [DATA.GOV.UK](https://data.gov.uk/) 
+* Workshop - JS UI libraries  
+	* [jQueryUI](https://jqueryui.com/)
+	* [Tangle](http://worrydream.com/Tangle/)
+	* [NexusUI](http://nexusosc.com/), 
+* Workshop - Introduction to [p5.JS](http://p5js.org/)
 * Homework  
-	* READ Donella Meadows “Thinking In Systems” Introduction + Ch.1  
-	* FIND at least one “reference” idea. Be prepared to share your ideas in class.     
-	* CREATE a p5 sketch that inspired by your "reference" idea.
-	* WRITE a post that outlines your idea/reference and includes the p5 sketch.   
+	* READ Donella Meadows “Thinking In Systems” Introduction + Ch.1    
+	* THINK about Project 2/3 and what type of "interactivity" you'd like to create. FIND at least one source of inspiration for Project 2/3.
+	* WATCH ["Hello p5JS"](http://hello.p5js.org/)(Approx. 8 min)
+	* CREATE a p5 sketch inspired by your reference idea  
+	* WRITE a post that describes your idea and reference and also includes your p5 sketch   
 
 ###Class 7 (Wed 01/11)   
 * Share Homework  
-* Workshop - Coding Systems & Games  
+* Workshop - Coding Systems & Games with p5.js 
 * Explore - Nicky Case Modeling Tool  
-* AFTERNOON TRIP: 1:15pm - 4pm  
+* AFTERNOON TRIP: 1:30pm - 4:30pm  
 	* J. Walter Thompson Ad Agency with NYUAD Alum Jamie Sutherland Visit   
 * Homework  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
 	* READ Nicky Case “I Do and I Understand”  
-	* CREATE a ‘system’ using p5.js that is related to your project and lives on a webpage
+	* CREATE a "system" using p5.js that is related to your project and lives on a webpage
 
 ###Class 8 (Thurs 01/12)   
-* Workshop - Coding Systems & Games Continued  
-* Workshop - More JS libraries (Tangle, NexusUI, jQueryUI)  
-* AFTERNOON TRIP: 12:15pm - 4:30pm  
+* Workshop - User Testing  
+* AFTERNOON TRIP: 12:00pm - 4:30pm  
 	* “Borough Market” for Lunch
 	* “The New Tate Modern” - “Media Networks” Exhibit + Main Gallery Installation
 * Homework  
@@ -145,29 +149,30 @@ Explorabe Stories Schedule
 * Project #2 Due  
 * Guest  Visit - Dirichi D’Ike-njoku    
 * Homework  
-	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
-	* WATCH TBD  
-	* WRITE a blog post that describes the feedback you received on Project #2 and what you plan to do for the Final Project.
+	* READ Chris Crawford Ch.3 “Interactive Storytelling”    
+	* WRITE a blog post that describes the feedback you received on Project #2 and what you plan to 
+	do for the Final Project  
+	* CREATE a "Home Page" for your web server space that links to your blog posts, homework assignments, and projects  	
  
 ###Class 10 (Mon 01/16)
 * Share Homework
-* Workshop - Writing Your Story
-* Workshop - Content Production
+* Workshop - TBD
+* OPTIONAL TRIP: 4:30pm - 7:30pm  
+	* [Winter Lights - Canary Wharf](http://canarywharf.com/arts-events/events/winter-lights-2017/)
 * Homework  
-	* READ TBD  
+	* READ Papert Ch. 8
 	* WORK on Final Project
 
 ###Class 11 (Tues 01/17)
+* Discuss Reading  
 * Workshop - TBD  
 * AFTERNOON TRIP: 1:30pm - 4:30pm   
 	* Technology Will Save Us + Hirsch & Mann with NYU ITP Alumni Daniel Hirschmann  
 * Homework  
-	* READ Papert Ch. 8
 	* WORK on Final Project  
 
 ###Class 12 (Wed 01/18)
 * Share Final Project Update  
-* Discuss Reading  
 * Workshop - Final Project  
 * Homework  
 	* FINISH Final Project  
