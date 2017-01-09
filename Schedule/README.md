@@ -109,15 +109,23 @@ Explorabe Stories Schedule
 
 ###Class 6 (Tues 01/10)  
 * Discuss Crawford Ch.2 "Interactivity"
-	* [NY Times Interactive Sgtories - Rio Olympics 2016](http://www.nytimes.com/spotlight/rio-olympics-2016-interactive-stories)  
+	* [NY Times Interactive Stories - Rio Olympics 2016](http://www.nytimes.com/spotlight/rio-olympics-2016-interactive-stories)  
 	* [Jack Schaedler - Back to the Future of Handwriting](http://jackschaedler.github.io/handwriting-recognition/)
 * London Data References  
 	* [London DataStore](https://data.london.gov.uk/)
 	* [DATA.GOV.UK](https://data.gov.uk/) 
-* Workshop - JS UI libraries  
+* Web Design/Development Links
+	* CSS Tricks - [Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
+	* CSS Tricks - [Text on Image](https://css-tricks.com/design-considerations-text-images/)
+	* JS - [Sublime Linter](http://www.hongkiat.com/blog/identify-code-errors-sublime-linter/) + [Sublime Package Control](https://packagecontrol.io/installation)
+* Workshop - JS Interaction libraries  
 	* [jQueryUI](https://jqueryui.com/)
 	* [Tangle](http://worrydream.com/Tangle/)
-	* [NexusUI](http://nexusosc.com/), 
+	* [NexusUI](http://nexusosc.com/)
+	* [ChartJS](http://www.chartjs.org/)  
+	* [TimelineJS](http://timeline.knightlab.com/)
+	* [Google Maps](https://developers.google.com/maps/web/)
+	* [A-Frame](https://aframe.io/)
 * Workshop - Introduction to [p5.JS](http://p5js.org/)
 * Homework  
 	* READ Donella Meadows “Thinking In Systems” Introduction + Ch.1    
@@ -130,7 +138,7 @@ Explorabe Stories Schedule
 * Share Homework  
 * Workshop - Coding Systems & Games with p5.js 
 * Explore - Nicky Case Modeling Tool  
-* AFTERNOON TRIP: 1:30pm - 4:30pm  
+* AFTERNOON TRIP: 1:00pm - 4:30pm  
 	* J. Walter Thompson Ad Agency with NYUAD Alum Jamie Sutherland Visit   
 * Homework  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
