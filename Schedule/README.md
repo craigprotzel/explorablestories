@@ -128,11 +128,12 @@ Explorabe Stories Schedule
 	* [A-Frame](https://aframe.io/)
 	* [HowlerJS](https://howlerjs.com/)  
 * Workshop - Introduction to [p5.JS](http://p5js.org/)
+	* [p5JS - Getting Started Tutorial](http://p5js.org/get-started/)
 * Homework  
 	* READ Donella Meadows “Thinking In Systems” Introduction + Ch.1    
 	* THINK about Project 2/3 and what type of "interactivity" you'd like to create. FIND at least one source of inspiration for Project 2/3.
 	* WATCH ["Hello p5JS"](http://hello.p5js.org/) (Approx. 8 min)
-	* CREATE a p5 sketch inspired by your reference idea  
+	* CREATE a p5 sketch() inspired by your reference idea  
 	* WRITE a post that describes your idea and reference and also includes your p5 sketch   
 
 ###Class 7 (Wed 01/11)   
