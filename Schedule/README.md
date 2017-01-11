@@ -145,11 +145,14 @@ Explorabe Stories Schedule
 	* J. Walter Thompson Ad Agency with NYUAD Alum Jamie Sutherland Visit   
 * Homework  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
-	* READ Nicky Case “I Do and I Understand”  
-	* CREATE a "system" using p5.js that is related to your project and lives on a webpage
+	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
+	* CREATE a "system" using p5.js (or with a library more relevant to your idea) that is related to your project and lives on a webpage
 
 ###Class 8 (Thurs 01/12)   
-* Share Homework  
+* Share Homework 
+* Discuss Trip + Readings
+* [Setting up a local host](https://github.com/craigprotzel/Mashups/blob/master/07_08_Structuring_Your_App/Local_Server/README.md)
+* More fun with code 
 * Workshop - User Testing  
 * AFTERNOON TRIP: 12:00pm - 4:30pm  
 	* “Borough Market” for Lunch
@@ -157,7 +160,7 @@ Explorabe Stories Schedule
 * Homework  
 	* **FINISH Project #2**
 
-###Class 9  (Fri 01/13 - __Meet In the Afternoon__) - Project #2 + Guest Dirichi D’Ike-njoku
+###Class 9  (Fri 01/13 - __Meet In the Afternoon__ 1:30pm - 4:30pm) - Project #2 + Guest Dirichi D’Ike-njoku
 * Project #2 Due  
 * Guest  Visit - Dirichi D’Ike-njoku    
 * Homework  
