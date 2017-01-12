@@ -139,8 +139,8 @@ Explorabe Stories Schedule
 
 ###Class 7 (Wed 01/11)   
 * Share Homework  
-* Workshop - Coding Systems & Games with p5.js 
-* Explore - Nicky Case Modeling Tool  
+* Workshop - Coding Animation & Conditionals with p5.js 
+* Explore - Nicky Case [Simulation Tool](http://ncase.me/simulating/)  
 * AFTERNOON TRIP: 1:00pm - 4:30pm  
 	* J. Walter Thompson Ad Agency with NYUAD Alum Jamie Sutherland Visit   
 * Homework  
@@ -149,11 +149,11 @@ Explorabe Stories Schedule
 	* CREATE a "system" using p5.js (or with a library more relevant to your idea) that is related to your project and lives on a webpage
 
 ###Class 8 (Thurs 01/12)   
-* Share Homework 
 * Discuss Trip + Readings
+* [Human Centered Design](http://www.designkit.org/human-centered-design)
+* Share Homework 
 * [Setting up a local host](https://github.com/craigprotzel/Mashups/blob/master/07_08_Structuring_Your_App/Local_Server/README.md)
-* More fun with code 
-* Workshop - User Testing  
+* Workshop - Coding Systems & Games  
 * AFTERNOON TRIP: 12:00pm - 4:30pm  
 	* “Borough Market” for Lunch
 	* “The New Tate Modern” - “Media Networks” Exhibit + Main Gallery Installation
