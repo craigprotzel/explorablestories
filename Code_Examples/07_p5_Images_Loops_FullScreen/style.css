@@ -1,0 +1,14 @@
+body {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	font-family: Arial;
+	font-size: 24px;
+}
+
+#canvas-container{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;	
+}
