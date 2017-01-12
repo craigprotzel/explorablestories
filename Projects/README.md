@@ -21,6 +21,14 @@ The grading rubric for this first assignment is the following:
 **Due Friday 01/13**  
 Utilizing an “experiential” javascript library of your choice, create an explorable web prototype that tells a story. You may build upon your “story” from Project #1 or create an entirely new one. Your page should have 2-3 pages of written material and incorporate at least one javascript library. Be prepared to present and share your project with the class.
 
+The grading rubric for the second assignment is the following:
+* 10: Markup/Code Quality - Legibility, management, clarity, comments
+* 10: Technical Implementation - Demonstrate an understanding of the material, specifically the use of HTML, CSS, javascript, and a javascript library
+* 10: Design - Does the site make sense? Is there an interaction that contributes to the overall experience?
+* 10: Storytelling - Does the website tell a "story" or is does it have potential for a story?  
+* 10: Creativity - Are you pushing yourself creatively? 
+
+
 ###Final Project
 **Due Thursday 01/19**  
 Create an “explorable story” that includes 4-5 pages of written material along with some additional multi-media. You may continue with the story from your previous project(s) or create a new one. The explorable should allow for some form of “active” media consumption. Your project should live on the web and be designed in a way that is accessible to a general audience.
