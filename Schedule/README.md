@@ -160,13 +160,15 @@ Explorabe Stories Schedule
 * Homework  
 	* **FINISH Project #2**
 
-###Class 9  (Fri 01/13 - __Meet In the Afternoon__ 1:30pm - 4:30pm) - Project #2 + Guest Dirichi D’Ike-njoku
+###Class 9  (Fri 01/13 - __Meet In the Afternoon__ 2pm - 5pm) - Project #2 + Guest Dirichi D’Ike-njoku
 * Project #2 Due  
 * Guest  Visit - Dirichi D’Ike-njoku    
 * Homework  
 	* READ Chris Crawford Ch.3 “Interactive Storytelling”    
 	* WRITE a blog post that describes the feedback you received on Project #2 and what you plan to 
-	do for the Final Project  
+	do for the Final Project
+	* WORK on your final project.
+	* READ article on coding and javascript  
 	* CREATE a "Home Page" for your web server space that links to your blog posts, homework assignments, and projects  	
  
 ###Class 10 (Mon 01/16)
