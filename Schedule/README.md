@@ -168,8 +168,9 @@ Explorabe Stories Schedule
 	* WRITE a blog post that describes the feedback you received on Project #2 and what you plan to 
 	do for the Final Project
 	* WORK on your final project.
-	* READ article on coding and javascript  
-	* CREATE a "Home Page" for your web server space that links to your blog posts, homework assignments, and projects  	
+	* CREATE a "Home Page" for your web server space that links to your blog posts, homework assignments, and projects 
+	* WATCH ["A Brief Introduction to Debugging: Introduction & Part 1"](https://vimeo.com/105069079)
+	* TRY Khan Academy ["Intro to JS Drawing & Animation"](https://www.khanacademy.org/computing/computer-programming/programming) on coding and javascript  
  
 ###Class 10 (Mon 01/16)
 * Share Homework
