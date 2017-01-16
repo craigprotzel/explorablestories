@@ -178,11 +178,13 @@ Explorabe Stories Schedule
 	* [Awwwards - Collections](http://www.awwwards.com/collections/)
 	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
 * Workshop - Creating Objects
+* [Code Examples Folder](https://drive.google.com/drive/folders/0Bzpi6aGCgm6Vb3l4bDdyNTc1UmM?usp=sharing)
 * OPTIONAL TRIP: 4:30pm - 7:30pm  
 	* [Winter Lights - Canary Wharf](http://canarywharf.com/arts-events/events/winter-lights-2017/)
 * Homework  
 	* READ Papert Ch. 8
 	* WORK on Final Project
+	* FINISH Home Page
 
 ###Class 11 (Tues 01/17)
 * Discuss Reading  
@@ -197,7 +199,6 @@ Explorabe Stories Schedule
 * Workshop - Final Project  
 * Homework  
 	* FINISH Final Project  
-	* FINISH Home Page
 
 ###Class 13 (Thurs 01/19) - Final Class
 * Final Project Due  
