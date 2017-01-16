@@ -177,6 +177,7 @@ Explorabe Stories Schedule
 * Web References
 	* [Awwwards - Collections](http://www.awwwards.com/collections/)
 	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
+	* [Paperplanes.World](https://paperplanes.world/)
 * Workshop - Creating Objects
 * [Code Examples Folder](https://drive.google.com/drive/folders/0Bzpi6aGCgm6Vb3l4bDdyNTc1UmM?usp=sharing)
 * OPTIONAL TRIP: 4:30pm - 7:30pm  
