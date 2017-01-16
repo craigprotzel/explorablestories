@@ -174,6 +174,7 @@ Explorabe Stories Schedule
  
 ###Class 10 (Mon 01/16)
 * Share Homework
+* Discuss Reading
 * Web References
 	* [Awwwards - Collections](http://www.awwwards.com/collections/)
 	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
