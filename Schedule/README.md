@@ -192,7 +192,7 @@ Explorabe Stories Schedule
 * Discuss Reading  
 * Workshop - Making A Game  
 * AFTERNOON TRIP: 1:00pm - 4:30pm   
-	* Technology Will Save Us + Hirsch & Mann with NYU ITP Alumni Daniel Hirschmann  
+	* [Technology Will Save Us](https://www.techwillsaveus.com/) + [Hirsch & Mann](https://www.hirschandmann.com/) with NYU ITP Alumni Daniel Hirschmann  
 * Homework  
 	* WORK on Final Project  
 
