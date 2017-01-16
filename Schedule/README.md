@@ -191,7 +191,7 @@ Explorabe Stories Schedule
 ###Class 11 (Tues 01/17)
 * Discuss Reading  
 * Workshop - Making A Game  
-* AFTERNOON TRIP: 1:30pm - 4:30pm   
+* AFTERNOON TRIP: 1:00pm - 4:30pm   
 	* Technology Will Save Us + Hirsch & Mann with NYU ITP Alumni Daniel Hirschmann  
 * Homework  
 	* WORK on Final Project  
