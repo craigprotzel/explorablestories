@@ -16,6 +16,7 @@ function setup() {
 	for (var i = 0; i < numObjects; i++){
 		objArray[i] = new Explorable(i);
 	}
+	textFont("Georgia");
 }
 
 function draw(){
@@ -29,6 +30,7 @@ function draw(){
 	//Update the text
 	fill(255);
 	textSize(32);
+	textFont("Georgia");
 	text(curText, 20,40);
 }
 
