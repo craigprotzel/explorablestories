@@ -199,11 +199,11 @@ Explorabe Stories Schedule
 
 ###Class 12 (Wed 01/18)
 * Share Final Project Update  
-* Workshop - Final Project  
+* Workshop - Final Project Open Office Hours
 * Homework  
 	* FINISH Final Project  
 
-###Class 13 (Thurs 01/19) - Final Class
+###Class 13 (Thurs 01/19 Meet 10AM - 1PM) - Final Class
 * Final Project Due  
 * Guest Visit - TBD  
 * Course Review  
