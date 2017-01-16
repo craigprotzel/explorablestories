@@ -1,0 +1,18 @@
+body{
+	font-size: 18px;
+	font-family: Arial;
+}
+
+h1{
+	text-align: center;
+}
+
+.main-text{
+	text-align: center;	
+}
+
+canvas{
+	display: block;
+	margin: 20px auto;
+}
+

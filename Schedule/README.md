@@ -153,7 +153,7 @@ Explorabe Stories Schedule
 * [Human Centered Design](http://www.designkit.org/human-centered-design)
 * Share Homework 
 * [Setting up a local host](https://github.com/craigprotzel/Mashups/blob/master/07_08_Structuring_Your_App/Local_Server/README.md)
-* Workshop - Coding Systems & Games  
+* Workshop - Animations & Conditionals Cont. 
 * AFTERNOON TRIP: 12:00pm - 4:30pm  
 	* “Borough Market” for Lunch
 	* “The New Tate Modern” - “Media Networks” Exhibit + Main Gallery Installation
@@ -174,7 +174,10 @@ Explorabe Stories Schedule
  
 ###Class 10 (Mon 01/16)
 * Share Homework
-* Workshop - TBD
+* Web References
+	* [Awwwards - Collections](http://www.awwwards.com/collections/)
+	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
+* Workshop - Creating Objects
 * OPTIONAL TRIP: 4:30pm - 7:30pm  
 	* [Winter Lights - Canary Wharf](http://canarywharf.com/arts-events/events/winter-lights-2017/)
 * Homework  
@@ -183,7 +186,7 @@ Explorabe Stories Schedule
 
 ###Class 11 (Tues 01/17)
 * Discuss Reading  
-* Workshop - TBD  
+* Workshop - Making A Game  
 * AFTERNOON TRIP: 1:30pm - 4:30pm   
 	* Technology Will Save Us + Hirsch & Mann with NYU ITP Alumni Daniel Hirschmann  
 * Homework  
@@ -194,6 +197,7 @@ Explorabe Stories Schedule
 * Workshop - Final Project  
 * Homework  
 	* FINISH Final Project  
+	* FINISH Home Page
 
 ###Class 13 (Thurs 01/19) - Final Class
 * Final Project Due  
