@@ -24,7 +24,6 @@ function setup() {
 		candy.shapeColor = color(235,0,0);
 		candies.add(candy);
 	}
-
 }
 
 var speed = 5;
@@ -70,10 +69,8 @@ function draw() {
 		if (curTime === 0){
 			gameOver = true;
 		}
-
 	}
 }
-
 
 function collectCandy(player,candyItem){
 	console.log("Candy Time!!!");
@@ -99,6 +96,7 @@ function restartGame(){
 	}
 }
 
+//Logic for moving maxi character
 function checkForKeyPress(){
 	if ( keyDown('s') && maxi.position.y < (height - 25)  ){
 		maxi.position.y = maxi.position.y + speed;
@@ -113,6 +111,3 @@ function checkForKeyPress(){
 		maxi.position.x = maxi.position.x - speed;
 	}
 }
-
-
-
