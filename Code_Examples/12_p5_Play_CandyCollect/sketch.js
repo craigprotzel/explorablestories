@@ -14,16 +14,8 @@ function setup() {
 	createCanvas(800,400);
 	background(0,0,255);
 
-	maxi = createSprite(width/2, height/2);
-	maxi.addImage(maxImage);
-
-	candies = new Group();
-
-	for (var i = 0; i < 5; i++){
-		var candy = createSprite( random(0,width), random(0,height),20,20);
-		candy.shapeColor = color(235,0,0);
-		candies.add(candy);
-	}
+	//Make sprites
+	initGame();
 }
 
 var speed = 5;
@@ -83,17 +75,33 @@ function mousePressed(){
 	}
 }
 
-//Logic for restarting the game
-function restartGame(){
-	timer = 0;
-	gameOver = false;
-	winner = false;
+//Logic for recreating the sprites
+function initGame(){
+	maxi = createSprite(width/2, height/2);
+	maxi.addImage(maxImage);
+
+	candies = new Group();
 
 	for (var i = 0; i < 5; i++){
 		var candy = createSprite( random(0,width), random(0,height),20,20);
 		candy.shapeColor = color(235,0,0);
 		candies.add(candy);
 	}
+}
+
+//Logic for restarting the game
+function restartGame(){
+	timer = 0;
+	gameOver = false;
+	winner = false;
+
+	//Remove any left over candy sprites
+	candies.removeSprites();
+	//Remove player 
+	maxi.remove();
+
+	//Make sprites
+	initGame();
 }
 
 //Logic for moving maxi character
