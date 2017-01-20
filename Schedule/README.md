@@ -191,20 +191,18 @@ Explorabe Stories Schedule
 
 ###Class 11 (Tues 01/17)
 * Discuss Reading  
-* Workshop - Making A Game  
+* Workshop - Making A Game with [p5Play Library](http://p5play.molleindustria.org/)
 * AFTERNOON TRIP: 1:00pm - 4:30pm   
 	* [Technology Will Save Us](https://www.techwillsaveus.com/) + [Hirsch & Mann](https://www.hirschandmann.com/) with NYU ITP Alumni Daniel Hirschmann  
 * Homework  
 	* WORK on Final Project  
 
 ###Class 12 (Wed 01/18)
-* Share Final Project Update  
 * Workshop - Final Project Open Office Hours
 * Homework  
 	* FINISH Final Project  
 
 ###Class 13 (Thurs 01/19 Meet 10AM - 1PM) - Final Class
-* Final Project Due  
-* Guest Visit - TBD  
 * Course Review  
 * Course Evaluations  
+* Final Project Presentations
