@@ -1,4 +1,4 @@
-console.log("Loaded!");
+console.log("Loaded!")
 
 // var showTheText = function(){
 // 	// $('#button1-text')
