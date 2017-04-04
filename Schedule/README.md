@@ -202,7 +202,7 @@ Explorabe Stories Schedule
 * Homework  
 	* FINISH Final Project  
 
-###Class 13 (Thurs 01/19 Meet 10AM - 1PM) - Final Class
+### Class 13 (Thurs 01/19 Meet 10AM - 1PM) - Final Class
 * Course Review  
 * Course Evaluations  
 * Final Project Presentations
