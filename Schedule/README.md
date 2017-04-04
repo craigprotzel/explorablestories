@@ -1,12 +1,12 @@
 Explorabe Stories Schedule
 ==========================
 
-###STRUCTURE  
+### STRUCTURE  
 * WEEK 1 - FOUNDATION  
 * WEEK 2 - EXPLORATION  
 * WEEK 3 - APPLICATION  
 
-###Class 1 (Wed 01/04) - An Introduction to Exploration
+### Class 1 (Wed 01/04) - An Introduction to Exploration
 * Introduction - Nicky Case’s [Parable of the Polygons](http://ncase.me/polygons/)  
 * Class Introduction  
 * Examples  
@@ -32,7 +32,7 @@ Explorabe Stories Schedule
 	* DESCRIBE a memorable educational experience from your childhood. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time? Was the experience an ‘explorable’ one or not? Were elements of either Piaget’s Constructivism or Papert’s Constructionism involved? Explain why or why not?  
 	* CREATE a web page with your writing response on it  
 
-###Class 2 (Thurs 01/05) - Explain & Explore
+### Class 2 (Thurs 01/05) - Explain & Explore
 * Share Homework  
 * Workshop - Web Design + Development	
 	* [The Internet Archive - Wayback Machine](https://archive.org/web/)
@@ -71,7 +71,7 @@ Explorabe Stories Schedule
 	* DESCRIBE one noteworthy “experience” from the museum visit, i.e. an installation, exhibition, etc.  Attempt to categorize it as an “explanatory” or “exploratory” experience and explain why. Also, attempt to articulate what Seymour Papert would think of this “experience” and why? Include images of the "experience" if possible.  
 	* POST your response to your web blog
 
-###Class 3 (Fri 01/06) - Web Work
+### Class 3 (Fri 01/06) - Web Work
 * Setup Web Space & Upload Homework(s)  
 	* [Cyberduck](https://cyberduck.io/?l=en)
 * Share Homework  
@@ -85,7 +85,7 @@ Explorabe Stories Schedule
 	* START Project #1  
 	* WRITE a blog post describing a possible site/space/location for Project #1. What "story" do you want to tell and why?  
 
-###Class 4 (Sat 01/07) - Storytime
+### Class 4 (Sat 01/07) - Storytime
 * Share Homework  
 * Discussion - Storytelling & Audio Production  
 	* [Storytelling Crash Course Slides](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
@@ -99,7 +99,7 @@ Explorabe Stories Schedule
 	* **FINISH Project #1**  
 	* BONUS (NOT REQIURED) - [Codecademy: Make An Interactive Website](https://www.codecademy.com/skills/make-an-interactive-website)
 
-###Class 5 (Mon 01/09) - Project #1 + Guest Paul May  
+### Class 5 (Mon 01/09) - Project #1 + Guest Paul May  
 * Project #1 Due  
 * Guest Visit - Paul May  
 * EVENING TRIP: 6:30pm - 10pm  
@@ -107,7 +107,7 @@ Explorabe Stories Schedule
 * Homework  
 	* READ Chris Crawford Ch.2 “Interactivity”
 
-###Class 6 (Tues 01/10)  
+### Class 6 (Tues 01/10)  
 * Discuss Crawford Ch.2 "Interactivity"
 	* [NY Times Interactive Stories - Rio Olympics 2016](http://www.nytimes.com/spotlight/rio-olympics-2016-interactive-stories)  
 	* [Jack Schaedler - Back to the Future of Handwriting](http://jackschaedler.github.io/handwriting-recognition/)
@@ -137,7 +137,7 @@ Explorabe Stories Schedule
 	* WRITE a post that describes your idea and reference and also includes your p5 sketch 
 	* SEND me a link to your favorite adertisement (for our visit to JWT Advertising)  
 
-###Class 7 (Wed 01/11)   
+### Class 7 (Wed 01/11)   
 * Share Homework  
 * Workshop - Coding Animation & Conditionals with p5.js 
 * Explore - Nicky Case [Simulation Tool](http://ncase.me/simulating/)  
@@ -148,7 +148,7 @@ Explorabe Stories Schedule
 	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
 	* CREATE a "system" using p5.js (or with a library more relevant to your idea) that is related to your project and lives on a webpage
 
-###Class 8 (Thurs 01/12)   
+### Class 8 (Thurs 01/12)   
 * Discuss Trip + Readings
 * [Human Centered Design](http://www.designkit.org/human-centered-design)
 * Share Homework 
@@ -160,7 +160,7 @@ Explorabe Stories Schedule
 * Homework  
 	* **FINISH Project #2**
 
-###Class 9  (Fri 01/13 - __Meet In the Afternoon__ 2pm - 5pm) - Project #2 + Guest Dirichi D’Ike-njoku
+### Class 9  (Fri 01/13 - __Meet In the Afternoon__ 2pm - 5pm) - Project #2 + Guest Dirichi D’Ike-njoku
 * Project #2 Due  
 * Guest  Visit - Dirichi D’Ike-njoku    
 * Homework  
@@ -172,7 +172,7 @@ Explorabe Stories Schedule
 	* WATCH ["A Brief Introduction to Debugging: Introduction & Part 1"](https://vimeo.com/105069079)
 	* TRY Khan Academy ["Intro to JS Drawing & Animation"](https://www.khanacademy.org/computing/computer-programming/programming) on coding and javascript  
  
-###Class 10 (Mon 01/16)
+### Class 10 (Mon 01/16)
 * Share Homework
 * Web References
 	* [Awwwards - Collections](http://www.awwwards.com/collections/)
@@ -189,7 +189,7 @@ Explorabe Stories Schedule
 	* WORK on Final Project
 	* FINISH Home Page
 
-###Class 11 (Tues 01/17)
+### Class 11 (Tues 01/17)
 * Discuss Reading  
 * Workshop - Making A Game with [p5Play Library](http://p5play.molleindustria.org/)
 * AFTERNOON TRIP: 1:00pm - 4:30pm   
@@ -197,7 +197,7 @@ Explorabe Stories Schedule
 * Homework  
 	* WORK on Final Project  
 
-###Class 12 (Wed 01/18)
+### Class 12 (Wed 01/18)
 * Workshop - Final Project Open Office Hours
 * Homework  
 	* FINISH Final Project  
