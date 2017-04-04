@@ -1,7 +1,7 @@
 Explorabe Stories Projects
 ==========================
 
-###Project #1
+### Project #1
 **Due Monday 01/09**  
 Working individually or with a partner, create a web experience that tells a “site-specific story” on a topic of your choice. The experience should:
 * Incude at least 2-3 pages of written material
@@ -17,7 +17,7 @@ The grading rubric for this first assignment is the following:
 * 10: Storytelling - Does the website tell a "story"?  
 * 10: Creativity - Demonstration of personal expression   
 
-###Project #2
+### Project #2
 **Due Friday 01/13**  
 Utilizing an “experiential” javascript library of your choice, create an explorable web prototype that tells a story. You may build upon your “story” from Project #1 or create an entirely new one. Your page should have 2-3 pages of written material and incorporate at least one javascript library. Be prepared to present and share your project with the class.
 
@@ -29,7 +29,7 @@ The grading rubric for the second assignment is the following:
 * 10: Creativity - Are you pushing yourself creatively? 
 
 
-###Final Project
+### Final Project
 **Due Thursday 01/19**  
 Create an “explorable story” that includes 4-5 pages of written material along with some additional multi-media. You may continue with the story from your previous project(s) or create a new one. The explorable should allow for some form of “active” media consumption. Your project should live on the web and be designed in a way that is accessible to a general audience.
 
