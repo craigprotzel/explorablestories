@@ -1,7 +1,7 @@
 Explorabe Stories Student Work
 ==============================
 
-###Student Blogs
+### Student Blogs
 * [Adam](http://oes218.nyuad.im)
 * [Ali](http://aa3817.nyuad.im)
 * [Alina](http://avl285.nyuad.im)
