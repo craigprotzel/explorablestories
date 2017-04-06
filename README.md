@@ -107,11 +107,11 @@ We will take several trips around London to gain inspiration and insight into th
 ### Laptops
 Laptop use will be expected in class, but should be focused on class-specific material, applications, and research. Whenever classmates are presenting please keep your laptop closed. The quality of the class depends in large part on your attention and active participation, so please respect your fellow classmates and close your lid.  
 
-###Mobile Phones
+### Mobile Phones
  Please put them on vibrate or turn them off before you come to class. If you have an emergency that requires you to answer your phone during class, please let me know me ahead of time or quietly step out of class to take the call.  
 
-###Academic Integrity
+### Academic Integrity
 As set forth in NYU Abu Dhabi's Academic Integrity Policy, the relationship between students and faculty at NYU Abu Dhabi is defined by a shared commitment to academic excellence and is grounded in an expectation of fairness, honesty, and respect, which are essential to maintaining the integrity of the community. Every student who enrolls and everyone who accepts an appointment as a member of the faculty or staff at NYU Abu Dhabi agrees to abide by the expectation of academic honesty. The full policies and procedures relating to [Academic Integrity](https://students.nyuad.nyu.edu/campus-life/student- policies/community-standards-policies/academic-integrity/) may be found on the NYUAD Student Portal.   
 
-###Communicate
+### Communicate
 If you have any questions, would like extra help or need further instruction please reach out to me. You can communicate with me via e-mail, sign up for ofice hours, speak with me before class, after class or during break, but please let me know if you have any concerns pertaining to the course.  
