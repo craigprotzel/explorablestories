@@ -1,4 +1,4 @@
-Explorabe Stories Schedule
+Explorable Stories Schedule
 ==========================
 
 ### STRUCTURE  
