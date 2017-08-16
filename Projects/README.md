@@ -1,5 +1,5 @@
-Explorabe Stories Projects
-==========================
+Explorable Stories Projects
+===========================
 
 ### Project #1
 **Due Monday 01/09**  
