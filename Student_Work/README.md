@@ -1,5 +1,5 @@
-Explorabe Stories Student Work
-==============================
+Explorable Stories Student Work
+===============================
 
 ### Student Blogs
 * [Adam](http://oes218.nyuad.im)
