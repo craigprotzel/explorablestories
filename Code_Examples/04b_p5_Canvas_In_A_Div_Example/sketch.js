@@ -1,4 +1,3 @@
-
 function setup() {
 	//Create the canvas and save it to a variable;
 	var myCanvas = createCanvas(600,400);
@@ -7,11 +6,9 @@ function setup() {
 	background(220,40,50);
 }
 
-
 function draw(){
 
 }
-
 
 function mousePressed(){
 
@@ -20,5 +17,3 @@ function mousePressed(){
 function keyPressed(){
 
 }
-
-

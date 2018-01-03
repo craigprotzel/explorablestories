@@ -74,5 +74,3 @@ function keyPressed(){
 
 	//There is a bug. What happens if the speed is 0???
 }
-
-

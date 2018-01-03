@@ -4,7 +4,7 @@ console.log("Loaded!")
 // 	// $('#button1-text')
 // 	console.log("Please show the text");
 // };
-
+// var buttonOne = $('#button1');
 // buttonOne.click(showTheText);
 
 var buttonOne = $('#button1');
