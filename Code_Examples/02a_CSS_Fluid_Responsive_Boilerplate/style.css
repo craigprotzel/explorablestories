@@ -4,8 +4,8 @@ body{
 }
 
 .main-container{
-	max-width: 1080px;
-	width: 90%;
+	max-width: 960px;
+	width: 80%;
 	margin: 10px auto; 
 }
 
@@ -24,8 +24,8 @@ body{
 	background-color: gray;
 }
 
-@media (max-width: 580px) {
+@media (max-width: 680px) {
 	.main-container {
-		width: 75%;
+		width: 60%;
 	}
 }

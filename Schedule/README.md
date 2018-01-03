@@ -2,50 +2,53 @@ Explorabe Stories Schedule
 ==========================
 
 ###STRUCTURE  
-* WEEK 1 - FOUNDATION  
-* WEEK 2 - EXPLORATION  
-* WEEK 3 - APPLICATION  
+#### FOUNDATION -> INTERACTION -> EXPLORATION
 
-###Class 1 (Wed 01/04) - An Introduction to Exploration
-* Introduction - Nicky Case’s [Parable of the Polygons](http://ncase.me/polygons/)  
-* Class Introduction  
-* Examples  
-	* Nicky Case - [Explorable Explanations](http://explorableexplanations.com/)  
-	* Doug Aitken - [The Source: Conversations with Doug Aitken](http://dougaitkenthesource.com/) 
-	* UNESCO - [Left Behind - Girl’s Education in Africa](http://www.uis.unesco.org/_LAYOUTS/UNESCO/no-girl-left-behind/index.html) + [Designing An Interactive Visualization](https://www.oreilly.com/ideas/designing-an-interactive-visualization-to-make-data-personal)  
-	* The Guardian - [NSA Files Decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)  
-	* Paul Ford - [What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
-	* Bloomberg - [How Americans Die?](https://www.bloomberg.com/graphics/dataview/how-americans-die/)  
-	* R2D3 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
-	* Wall Street Journal - [Blue Feed Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)  
-	* WebKid - [Awesome Interactive Journalism Repo](https://github.com/wbkd/awesome-interactive-journalism)  
-	* Chris Milk & Aaron Koblin - [The Exquisite Forest](http://www.exquisiteforest.com/)  
+###Class 1 (Thurs 01/04) - An Introduction to Exploration 
+* Class Introduction 
+	* Shanghai
+		*  SixthTone - [Alipay and WeChat Prove That China’s Future Is Cashless](http://www.sixthtone.com/news/1000731/Alipay%20and%20WeChat%20Prove%20That%20China%E2%80%99s%20Future%20Is%20Cashless)
+		* Jiwon Shin
+	* Examples  
+		* Nicky Case - [Explorable Explanations](http://explorableexplanations.com/)
+			* [The Evolution of Trust](http://ncase.me/trust/)
+			* [Parable of the Polygons](http://ncase.me/polygons/) 
+			* [JoyJS](http://ncase.me/joy/)
+		* Doug Aitken - [The Source: Conversations with Doug Aitken](http://dougaitkenthesource.com/)
+		* UNESCO - [Left Behind - Girl’s Education in Africa](http://www.uis.unesco.org/_LAYOUTS/UNESCO/no-girl-left-behind/index.html) + [Designing An Interactive Visualization](https://www.oreilly.com/ideas/designing-an-interactive-visualization-to-make-data-personal)  
+		* The Guardian - [NSA Files Decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)  
+		* Paul Ford - [What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
+		* Bloomberg - [How Americans Die?](https://www.bloomberg.com/graphics/dataview/how-americans-die/)  
+		* R2D3 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
+		* Wall Street Journal - [Blue Feed Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)  
+		* WebKid - [Awesome Interactive Journalism Repo](https://github.com/wbkd/awesome-interactive-journalism)  
+		* Chris Milk & Aaron Koblin - [The Exquisite Forest](http://www.exquisiteforest.com/)  
 * Student Introductions
 * Lecture - [WWW 101](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Web101.pdf)
 * Workshop - Making A Web Page  
 	* Download an IDE Text Editor - Recommend [SublimeText](https://www.sublimetext.com/3)
 * Homework  
-	* REVIEW examples above
-	* WATCH Bret Victor’s [“Media for Thinking the Unthinkable”](http://worrydream.com/MediaForThinkingTheUnthinkable/) (40 mins)  
 	* READ Bret Victor’s [“Explorable Explanations”](http://worrydream.com/ExplorableExplanations/)
-	* READ Erin Ackerman’s [“Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?”](http://learning.media.mit.edu/content/publications/EA.Piaget%20_%20Papert.pdf)
-	* DESCRIBE a memorable educational experience from your childhood. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time? Was the experience an ‘explorable’ one or not? Were elements of either Piaget’s Constructivism or Papert’s Constructionism involved? Explain why or why not?  
-	* CREATE a web page with your writing response on it  
+	* READ Seymour Papert’s “Mindstorms” Introduction + Ch.1 (pp. 3 - 37)
+	* DESCRIBE your most memorable educational experience pre-NYUAD. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time. It could have happened within school or outside of any formal educational setting. Why is this your most memorable experience? Was the experience an ‘explorable’ one or not? Were elements of Papert’s “Constructionism” involved? Explain why or why not?
+	* CREATE a web page that with your writing response on it that will serve as your homework blog  
 
-###Class 2 (Thurs 01/05) - Explain & Explore
-* Share Homework  
-* Workshop - Web Design + Development	
+###Class 2 (Fri 01/05) - Design & Develop
+* Share Homework
+* Discuss Victor & Papert Readings
+* Discuss Project #1
+* Discuss Site Visit #1
+* Workshop - Web Design & Development	
+	* [Paperplanes](https://paperplanes.world/)
 	* [The Internet Archive - Wayback Machine](https://archive.org/web/)
 	* [Chrome Developer Tools](https://developer.chrome.com/devtools)
 	* [CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * Web Resources  
 	* HTML
 		* MDN - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)  
-		* MDN - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
-		* Web Platform - [The Basics of HTML](https://docs.webplatform.org/wiki/guides/the_basics_of_html)  
+		* MDN - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)   
 	* CSS  
-		* MDN - [Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)  
-		* Web Platform - [Getting Started with CSS](https://docs.webplatform.org/wiki/guides/getting_started_with_css)  
+		* MDN - [Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)    
 		* [Google Fonts](https://fonts.google.com/)
 		* [CSS Postioning 101](http://alistapart.com/article/css-positioning-101)
 	* Video Tutorials  
@@ -55,70 +58,62 @@ Explorabe Stories Schedule
 		* Codecademy - [HTML & CSS](http://www.codecademy.com/en/tracks/web)  
 		* Khan Academy - [HTML/CSS Making WebPages](https://www.khanacademy.org/computing/computer-programming/html-css)  
 	* Design
+		* [Web Tuts - Design School for Developers](https://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 		* [Google Web Dev - Responsive Basics + Layouts](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
 		* [Google Web Dev - Responsive Web Design Patterns](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns?hl=en)
 		* [Design School for Developers](https://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)  
 	* Templates
 		* [HTML5 Boilerplate](https://html5boilerplate.com/)
 		* [Bootstrap](http://getbootstrap.com/) + [Boostrap Tutorial](https://www.sitepoint.com/understanding-twitter-bootstrap-3/)  
-* Workshop - Intro to Javascript (if time permits)
-* AFTERNOON TRIP: 1pm - 6pm    
-	* Science Museum - “Our Lives In Data”, “The Information Age”, & [“Statoil Wonderland”](https://beta.sciencemuseum.org.uk/wonderlab)   
-	* V&A Museum - [“You Say You Want A Revolution”](https://www.vam.ac.uk/articles/about-the-revolutions-exhibition)  
+* Web Server Space
+	* SFTP Application - [Cyberduck](https://cyberduck.io/?l=en)
+	* [How To Upload to Cyberduck](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Cyberduck)
 * Homework  
 	* READ [Data + Design Ch.15 Importance of Color, Font, & Icons](https://infoactive.co/data-design/ch15)
-	* READ Seymour Papert’s “Mindstorms” Introduction + Ch.1 (pp. 3 - 37)
-	* DESCRIBE one noteworthy “experience” from the museum visit, i.e. an installation, exhibition, etc.  Attempt to categorize it as an “explanatory” or “exploratory” experience and explain why. Also, attempt to articulate what Seymour Papert would think of this “experience” and why? Include images of the "experience" if possible.  
-	* POST your response to your web blog
+	* READ Janet Murray “Inventing the Medium” Introduction
+	* ADD a .css file and some personalized design/styling (i.e. font, color, layout, imagery, etc) to both your home page and your blog page
+	* RESEARCH the locations for tomorrow’s visit.
+	* WRITE a blog post describing what you are most excited/interested/intrigued to see tomorrow and why. Be prepared to discuss in class.
+	* START thinking about Project #1
 
-###Class 3 (Fri 01/06) - Web Work
-* Setup Web Space & Upload Homework(s)  
-	* [Cyberduck](https://cyberduck.io/?l=en)
-* Share Homework  
-* Discuss Project #1
-* Workshop - CSS 
-* AFTERNOON TRIP: 1:30pm - 4:30pm    
-	* The Barbican Centre [“Let’s Take A Walk”](https://www.barbican.org.uk/education/event-detail.asp?ID=20143) by [Non Zero One](http://www.nonzeroone.com/)  
-* Homework  
-	* READ Chris Crawford’s “Chris Crawford on Interactive Storytelling” Ch.1 Storytelling
-	* READ [Javascript For Cats](http://jsforcats.com/)
-	* START Project #1  
-	* WRITE a blog post describing a possible site/space/location for Project #1. What "story" do you want to tell and why?  
-
-###Class 4 (Sat 01/07) - Storytime
-* Share Homework  
-* Discussion - Storytelling & Audio Production  
-	* [Storytelling Crash Course Slides](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
+###Class 3 (Sat 01/06) - Storytime
+* Share Homework & Discuss Readings 
+* Storytelling
+	* [Storytelling Fundamentals](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
 	* Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI)
-	* [Audacity](http://www.audacityteam.org/)
+* AFTERNOON TRIP: 11:30AM - 5:30PM
+	* Shanghai Propaganda Poster Art Center
+	* Fuxing Park
+	* Site of the First Communist Congress
+	* K11 Mall & Gallery
+* Homework  
+	* READ Chris Crawford Ch.1 Storytelling
+	* WORK on Project #1  
+	* WRITE a blog post describing the site/space/location you plan to focus on for Project #1. What "story" do you want to tell and why? Please post this by 9PM on Sunday the 7th. 
+
+###Class 4 (Mon 01/08) - Style & Interactivity
+* Share Project Ideas & Discuss Crawford Reading 
+* More CSS
 * Workshop - Intro to Javascript & Web Interactions   
 	* MDN - [What Is Javascript, Really?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 	* [jQuery](http://api.jquery.com/)  
 	* [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)   
 * Homework  
-	* **FINISH Project #1**  
+	* READ Chris Crawford Ch.2 “Interactivity”
+	* READ [Javascript For Cats](http://jsforcats.com/) ("Callbacks" section is optional)
+	* WORK on Project #1
 	* BONUS (NOT REQIURED) - [Codecademy: Make An Interactive Website](https://www.codecademy.com/skills/make-an-interactive-website)
 
-###Class 5 (Mon 01/09) - Project #1 + Guest Paul May  
-* Project #1 Due  
-* Guest Visit - Paul May  
-* EVENING TRIP: 6:30pm - 10pm  
-	* [The Gielgud Theatre](https://www.google.co.uk/maps/place/Gielgud+Theatre/@51.5116819,-0.133005,15z/data=!4m2!3m1!1s0x0:0x433d5aa3834c103d?sa=X&ved=0ahUKEwiKt82CnrPRAhVMOxoKHSSABTAQ_BIIfzAK) - [“The Curious Incident of the Dog In the Nighttime”](http://www.curiousonstage.com/)  
-* Homework  
-	* READ Chris Crawford Ch.2 “Interactivity”
-
-###Class 6 (Tues 01/10)  
-* Discuss Crawford Ch.2 "Interactivity"
-	* [NY Times Interactive Stories - Rio Olympics 2016](http://www.nytimes.com/spotlight/rio-olympics-2016-interactive-stories)  
+###Class 5 (Tues 01/09) - More Interactivity
+* Discuss Crawford Ch.2 "Interactivity"  
+	* [NY Times Interactive Stories - Rio Olympics 2016](http://www.nytimes.com/spotlight/rio-olympics-2016-interactive-stories) 
+	* [NY Times - Uber]()  
 	* [Jack Schaedler - Back to the Future of Handwriting](http://jackschaedler.github.io/handwriting-recognition/)
-* London Data References  
-	* [London DataStore](https://data.london.gov.uk/)
-	* [DATA.GOV.UK](https://data.gov.uk/) 
-* Web Design/Development Links
-	* CSS Tricks - [Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
-	* CSS Tricks - [Text on Image](https://css-tricks.com/design-considerations-text-images/)
-	* JS - [Sublime Linter](http://www.hongkiat.com/blog/identify-code-errors-sublime-linter/) + [Sublime Package Control](https://packagecontrol.io/installation)
-* Workshop - JS Interaction libraries  
+* JS + jQuery Continued
+	* [Sublime Linter](http://www.hongkiat.com/blog/identify-code-errors-sublime-linter/) + [Sublime Package Control](https://packagecontrol.io/installation)
+	* [How To Setup JS Linter in Sublime Text 3](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Sublime_Linter)
+	* Code Examples
+* More JS Interaction libraries  
 	* [jQueryUI](https://jqueryui.com/)
 	* [Tangle](http://worrydream.com/Tangle/)
 	* [NexusUI](http://nexusosc.com/)
@@ -127,82 +122,91 @@ Explorabe Stories Schedule
 	* [Google Maps](https://developers.google.com/maps/web/)
 	* [A-Frame](https://aframe.io/)
 	* [HowlerJS](https://howlerjs.com/)  
-* Workshop - Introduction to [p5.JS](http://p5js.org/)
-	* [p5JS - Getting Started Tutorial](http://p5js.org/get-started/)
 * Homework  
-	* READ Donella Meadows “Thinking In Systems” Introduction + Ch.1    
-	* THINK about Project 2/3 and what type of "interactivity" you'd like to create. FIND at least one source of inspiration for Project 2/3.
-	* WATCH ["Hello p5JS"](http://hello.p5js.org/) (Approx. 8 min)
-	* CREATE a p5 sketch inspired by your reference idea  
-	* WRITE a post that describes your idea and reference and also includes your p5 sketch 
-	* SEND me a link to your favorite adertisement (for our visit to JWT Advertising)  
+	* FINISH Project #1
 
-###Class 7 (Wed 01/11)   
-* Share Homework  
-* Workshop - Coding Animation & Conditionals with p5.js 
-* Explore - Nicky Case [Simulation Tool](http://ncase.me/simulating/)  
-* AFTERNOON TRIP: 1:00pm - 4:30pm  
-	* J. Walter Thompson Ad Agency with NYUAD Alum Jamie Sutherland Visit   
+###Class 6 (Wed 01/10) - Project #1 & Guest Northy Chen
+* Present Project #1
+* Guest - Northy Chen
+* AFTERNOON TRIP: 1:30PM - 6:30PM
+	* Power Station of Art
+	* Bund Sightseeing Tunnel
 * Homework  
-	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
-	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
-	* CREATE a "system" using p5.js (or with a library more relevant to your idea) that is related to your project and lives on a webpage
-
-###Class 8 (Thurs 01/12)   
-* Discuss Trip + Readings
-* [Human Centered Design](http://www.designkit.org/human-centered-design)
-* Share Homework 
-* [Setting up a local host](https://github.com/craigprotzel/Mashups/blob/master/07_08_Structuring_Your_App/Local_Server/README.md)
-* Workshop - Animations & Conditionals Cont. 
-* AFTERNOON TRIP: 12:00pm - 4:30pm  
-	* “Borough Market” for Lunch
-	* “The New Tate Modern” - “Media Networks” Exhibit + Main Gallery Installation
-* Homework  
-	* **FINISH Project #2**
-
-###Class 9  (Fri 01/13 - __Meet In the Afternoon__ 2pm - 5pm) - Project #2 + Guest Dirichi D’Ike-njoku
-* Project #2 Due  
-* Guest  Visit - Dirichi D’Ike-njoku    
-* Homework  
-	* READ Chris Crawford Ch.3 “Interactive Storytelling”    
-	* WRITE a blog post that describes the feedback you received on Project #2 and what you plan to 
-	do for the Final Project
-	* WORK on your final project.
-	* CREATE a "Home Page" for your web server space that links to your blog posts, homework assignments, and projects 
 	* WATCH ["A Brief Introduction to Debugging: Introduction & Part 1"](https://vimeo.com/105069079)
-	* TRY Khan Academy ["Intro to JS Drawing & Animation"](https://www.khanacademy.org/computing/computer-programming/programming) on coding and javascript  
- 
-###Class 10 (Mon 01/16)
-* Share Homework
-* Web References
+	* WATCH ["Hello p5JS"](http://hello.p5js.org/) (Approx. 8 min)	
+
+###Class 7 (Thurs 01/11) - Designing for Exploration  
+* Discuss Site Visit & Project #2
+* Workshop - Re-Design the Bund Experience
+	* [Human Centered Design](http://www.designkit.org/human-centered-design)
+	* Design Tools
+* Workshop - Introduction to [p5.JS](http://p5js.org/)
+	* [p5JS - Getting Started Tutorial](http://p5js.org/get-started/) 
+* Homework  
+	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
+	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
+	* THINK about Project #2 and what type of "explorable story" you might like to create.
+	* CREATE a p5 sketch inspired by the readings and your idea
+	* EMBED the p5 sketch as a blog post using an iframe  
+
+###Class 8 (Fri 01/12) - Coding for Exploration   
+* Discuss Crawford & Case Readings
+* Share Homework Sketches
+* Workshop - Coding Animations, Conditionals, & Interactions with p5.js 
+* [Setting up a Local Host](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Local_Server)
+* Introduce p5 Libraries(https://p5js.org/libraries/)
+* Inspiration & Resources 
+	* [NFCB - Interactive](https://www.nfb.ca/interactive/)
+	* [Webby Awards](https://www.webbyawards.com/winners/2017/)
 	* [Awwwards - Collections](http://www.awwwards.com/collections/)
 	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
-	* [Paperplanes.World](https://paperplanes.world/)
-* Discuss Reading
-	* [Oculus Story Studio](https://storystudio.oculus.com/en-us/blog/)
-* Workshop - Creating Objects
-* [Code Examples Folder](https://drive.google.com/drive/folders/0Bzpi6aGCgm6Vb3l4bDdyNTc1UmM?usp=sharing)
-* OPTIONAL TRIP: 4:30pm - 7:30pm  
-	* [Winter Lights - Canary Wharf](http://canarywharf.com/arts-events/events/winter-lights-2017/)
+	* [Oculus Story Studio](https://storystudio.oculus.com/en-us/blog/))
+	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/)
+* EVENING TRIP: 7:00PM - 11:00PM 
+	* Sleep No More Play
+* Homework
+	* READ Papert CH. TBD
+	* WATCH Bret Victor’s [“Media for Thinking the Unthinkable”](http://worrydream.com/MediaForThinkingTheUnthinkable/) (40 mins)  
+	* CREATE a web-based "outline" for Project #2. Please post it on its own page by 9PM on Sunday the 14th.
+	* WRITE 3 Feedback Questions for the class and add them as a blog post.
+	* BONUS (NOT REQUIRED) - [Khan Academy "Intro to JS Drawing & Animation"](https://www.khanacademy.org/computing/computer-programming/programming)
+  
+###Class 9 (Mon 01/15) - Making A Game
+* Share Project #2 Outline & Feedback Questions
+* Workshop - Making A Game with [p5 Play]((http://p5play.molleindustria.org/))
 * Homework  
-	* READ Papert Ch. 8
-	* WORK on Final Project
-	* FINISH Home Page
+	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
+	* WRITE a blog post that describes the feedback you received on your Project #2 Outline, what you learned, and what you plan to achieve by Friday
+	* WORK Project #2
+	* CREATE a "Home Page" for your web server space that links to your blog post page and both of your projects
 
-###Class 11 (Tues 01/17)
-* Discuss Reading  
-* Workshop - Making A Game with [p5Play Library](http://p5play.molleindustria.org/)
-* AFTERNOON TRIP: 1:00pm - 4:30pm   
-	* [Technology Will Save Us](https://www.techwillsaveus.com/) + [Hirsch & Mann](https://www.hirschandmann.com/) with NYU ITP Alumni Daniel Hirschmann  
+###Class 10 (Tues 01/16) - The Real World
+* Discuss Homework & Reading  
+* Other JS Libraries
+* Guest - Rock Zou NYUAD Alum  
+* AFTERNOON TRIP: 1:30PM - 4:30PM
+	* IDEO (or other Company)
 * Homework  
-	* WORK on Final Project  
+	* Read Papert Ch.8
+	* WORK on Project #2  
 
-###Class 12 (Wed 01/18)
-* Workshop - Final Project Open Office Hours
+###Class 11 (Wed 01/17) - The Future
+* Discuss Site Visit & Papert Reading  
+* Issues - AI & Automation
+* [Dynamicland](https://dynamicland.org/)
+* Workshop - TBD
 * Homework  
-	* FINISH Final Project  
+	* PREPARE a "testable" version of Project #2  
 
-###Class 13 (Thurs 01/19 Meet 10AM - 1PM) - Final Class
+###Class 12 (Thurs 01/18) - User Testing
+* User Testing Workshop
+* Open Office Hours (All Day)
+* Homework
+	* FINISH Project #2  
+
+###Class 13 (Fri 01/19) - Final Class
+* Final Project Presentations
 * Course Review  
 * Course Evaluations  
-* Final Project Presentations
+ 
+
