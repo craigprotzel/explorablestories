@@ -1,10 +1,10 @@
 Explorabe Stories Schedule
 ==========================
 
-###STRUCTURE  
+### STRUCTURE  
 #### FOUNDATION -> INTERACTION -> EXPLORATION
 
-###Class 1 (Thurs 01/04) - An Introduction to Exploration 
+### Class 1 (Thurs 01/04) - An Introduction to Exploration 
 * Class Introduction 
 	* Shanghai
 		*  SixthTone - [Alipay and WeChat Prove That China’s Future Is Cashless](http://www.sixthtone.com/news/1000731/Alipay%20and%20WeChat%20Prove%20That%20China%E2%80%99s%20Future%20Is%20Cashless)
@@ -33,7 +33,7 @@ Explorabe Stories Schedule
 	* DESCRIBE your most memorable educational experience pre-NYUAD. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time. It could have happened within school or outside of any formal educational setting. Why is this your most memorable experience? Was the experience an ‘explorable’ one or not? Were elements of Papert’s “Constructionism” involved? Explain why or why not?
 	* CREATE a web page that with your writing response on it that will serve as your homework blog  
 
-###Class 2 (Fri 01/05) - Design & Develop
+### Class 2 (Fri 01/05) - Design & Develop
 * Share Homework
 * Discuss Victor & Papert Readings
 * Discuss Project #1
@@ -76,7 +76,7 @@ Explorabe Stories Schedule
 	* WRITE a blog post describing what you are most excited/interested/intrigued to see tomorrow and why. Be prepared to discuss in class.
 	* START thinking about Project #1
 
-###Class 3 (Sat 01/06) - Storytime
+### Class 3 (Sat 01/06) - Storytime
 * Share Homework & Discuss Readings 
 * Storytelling
 	* [Storytelling Fundamentals](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
@@ -91,7 +91,7 @@ Explorabe Stories Schedule
 	* WORK on Project #1  
 	* WRITE a blog post describing the site/space/location you plan to focus on for Project #1. What "story" do you want to tell and why? Please post this by 9PM on Sunday the 7th. 
 
-###Class 4 (Mon 01/08) - Style & Interactivity
+### Class 4 (Mon 01/08) - Style & Interactivity
 * Share Project Ideas & Discuss Crawford Reading 
 * More CSS
 * Workshop - Intro to Javascript & Web Interactions   
@@ -104,7 +104,7 @@ Explorabe Stories Schedule
 	* WORK on Project #1
 	* BONUS (NOT REQIURED) - [Codecademy: Make An Interactive Website](https://www.codecademy.com/skills/make-an-interactive-website)
 
-###Class 5 (Tues 01/09) - More Interactivity
+### Class 5 (Tues 01/09) - More Interactivity
 * Discuss Crawford Ch.2 "Interactivity"  
 	* [NY Times Interactive Stories - Rio Olympics 2016](http://www.nytimes.com/spotlight/rio-olympics-2016-interactive-stories) 
 	* [NY Times - Uber]()  
@@ -125,7 +125,7 @@ Explorabe Stories Schedule
 * Homework  
 	* FINISH Project #1
 
-###Class 6 (Wed 01/10) - Project #1 & Guest Northy Chen
+### Class 6 (Wed 01/10) - Project #1 & Guest Northy Chen
 * Present Project #1
 * Guest - Northy Chen
 * AFTERNOON TRIP: 1:30PM - 6:30PM
@@ -135,7 +135,7 @@ Explorabe Stories Schedule
 	* WATCH ["A Brief Introduction to Debugging: Introduction & Part 1"](https://vimeo.com/105069079)
 	* WATCH ["Hello p5JS"](http://hello.p5js.org/) (Approx. 8 min)	
 
-###Class 7 (Thurs 01/11) - Designing for Exploration  
+### Class 7 (Thurs 01/11) - Designing for Exploration  
 * Discuss Site Visit & Project #2
 * Workshop - Re-Design the Bund Experience
 	* [Human Centered Design](http://www.designkit.org/human-centered-design)
@@ -149,7 +149,7 @@ Explorabe Stories Schedule
 	* CREATE a p5 sketch inspired by the readings and your idea
 	* EMBED the p5 sketch as a blog post using an iframe  
 
-###Class 8 (Fri 01/12) - Coding for Exploration   
+### Class 8 (Fri 01/12) - Coding for Exploration   
 * Discuss Crawford & Case Readings
 * Share Homework Sketches
 * Workshop - Coding Animations, Conditionals, & Interactions with p5.js 
@@ -171,7 +171,7 @@ Explorabe Stories Schedule
 	* WRITE 3 Feedback Questions for the class and add them as a blog post.
 	* BONUS (NOT REQUIRED) - [Khan Academy "Intro to JS Drawing & Animation"](https://www.khanacademy.org/computing/computer-programming/programming)
   
-###Class 9 (Mon 01/15) - Making A Game
+### Class 9 (Mon 01/15) - Making A Game
 * Share Project #2 Outline & Feedback Questions
 * Workshop - Making A Game with [p5 Play]((http://p5play.molleindustria.org/))
 * Homework  
@@ -180,7 +180,7 @@ Explorabe Stories Schedule
 	* WORK Project #2
 	* CREATE a "Home Page" for your web server space that links to your blog post page and both of your projects
 
-###Class 10 (Tues 01/16) - The Real World
+### Class 10 (Tues 01/16) - The Real World
 * Discuss Homework & Reading  
 * Other JS Libraries
 * Guest - Rock Zou NYUAD Alum  
@@ -190,7 +190,7 @@ Explorabe Stories Schedule
 	* Read Papert Ch.8
 	* WORK on Project #2  
 
-###Class 11 (Wed 01/17) - The Future
+### Class 11 (Wed 01/17) - The Future
 * Discuss Site Visit & Papert Reading  
 * Issues - AI & Automation
 * [Dynamicland](https://dynamicland.org/)
@@ -198,13 +198,13 @@ Explorabe Stories Schedule
 * Homework  
 	* PREPARE a "testable" version of Project #2  
 
-###Class 12 (Thurs 01/18) - User Testing
+### Class 12 (Thurs 01/18) - User Testing
 * User Testing Workshop
 * Open Office Hours (All Day)
 * Homework
 	* FINISH Project #2  
 
-###Class 13 (Fri 01/19) - Final Class
+### Class 13 (Fri 01/19) - Final Class
 * Final Project Presentations
 * Course Review  
 * Course Evaluations  
