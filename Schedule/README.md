@@ -2,7 +2,7 @@ Explorabe Stories Schedule
 ==========================
 
 ### STRUCTURE  
-#### FOUNDATION -> INTERACTION -> EXPLORATION
+FOUNDATION -> INTERACTION -> EXPLORATION
 
 ### Class 1 (Thurs 01/04) - An Introduction to Exploration 
 * Class Introduction 
@@ -27,7 +27,7 @@ Explorabe Stories Schedule
 * Lecture - [WWW 101](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Web101.pdf)
 * Workshop - Making A Web Page  
 	* Download an IDE Text Editor - Recommend [SublimeText](https://www.sublimetext.com/3)
-* Homework  
+* **Homework**  
 	* READ Bret Victor’s [“Explorable Explanations”](http://worrydream.com/ExplorableExplanations/)
 	* READ Seymour Papert’s “Mindstorms” Introduction + Ch.1 (pp. 3 - 37)
 	* DESCRIBE your most memorable educational experience pre-NYUAD. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time. It could have happened within school or outside of any formal educational setting. Why is this your most memorable experience? Was the experience an ‘explorable’ one or not? Were elements of Papert’s “Constructionism” involved? Explain why or why not?
@@ -68,7 +68,7 @@ Explorabe Stories Schedule
 * Web Server Space
 	* SFTP Application - [Cyberduck](https://cyberduck.io/?l=en)
 	* [How To Upload to Cyberduck](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Cyberduck)
-* Homework  
+* **Homework**  
 	* READ [Data + Design Ch.15 Importance of Color, Font, & Icons](https://infoactive.co/data-design/ch15)
 	* READ Janet Murray “Inventing the Medium” Introduction
 	* ADD a .css file and some personalized design/styling (i.e. font, color, layout, imagery, etc) to both your home page and your blog page
@@ -86,7 +86,7 @@ Explorabe Stories Schedule
 	* Fuxing Park
 	* Site of the First Communist Congress
 	* K11 Mall & Gallery
-* Homework  
+* **Homework**  
 	* READ Chris Crawford Ch.1 Storytelling
 	* WORK on Project #1  
 	* WRITE a blog post describing the site/space/location you plan to focus on for Project #1. What "story" do you want to tell and why? Please post this by 9PM on Sunday the 7th. 
@@ -98,7 +98,7 @@ Explorabe Stories Schedule
 	* MDN - [What Is Javascript, Really?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 	* [jQuery](http://api.jquery.com/)  
 	* [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)   
-* Homework  
+* **Homework**  
 	* READ Chris Crawford Ch.2 “Interactivity”
 	* READ [Javascript For Cats](http://jsforcats.com/) ("Callbacks" section is optional)
 	* WORK on Project #1
@@ -122,7 +122,7 @@ Explorabe Stories Schedule
 	* [Google Maps](https://developers.google.com/maps/web/)
 	* [A-Frame](https://aframe.io/)
 	* [HowlerJS](https://howlerjs.com/)  
-* Homework  
+* **Homework**  
 	* FINISH Project #1
 
 ### Class 6 (Wed 01/10) - Project #1 & Guest Northy Chen
@@ -131,7 +131,7 @@ Explorabe Stories Schedule
 * AFTERNOON TRIP: 1:30PM - 6:30PM
 	* Power Station of Art
 	* Bund Sightseeing Tunnel
-* Homework  
+* **Homework**  
 	* WATCH ["A Brief Introduction to Debugging: Introduction & Part 1"](https://vimeo.com/105069079)
 	* WATCH ["Hello p5JS"](http://hello.p5js.org/) (Approx. 8 min)	
 
@@ -142,7 +142,7 @@ Explorabe Stories Schedule
 	* Design Tools
 * Workshop - Introduction to [p5.JS](http://p5js.org/)
 	* [p5JS - Getting Started Tutorial](http://p5js.org/get-started/) 
-* Homework  
+* **Homework**  
 	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
 	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
 	* THINK about Project #2 and what type of "explorable story" you might like to create.
@@ -164,7 +164,7 @@ Explorabe Stories Schedule
 	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/)
 * EVENING TRIP: 7:00PM - 11:00PM 
 	* Sleep No More Play
-* Homework
+* **Homework**
 	* READ Papert CH. TBD
 	* WATCH Bret Victor’s [“Media for Thinking the Unthinkable”](http://worrydream.com/MediaForThinkingTheUnthinkable/) (40 mins)  
 	* CREATE a web-based "outline" for Project #2. Please post it on its own page by 9PM on Sunday the 14th.
@@ -174,7 +174,7 @@ Explorabe Stories Schedule
 ### Class 9 (Mon 01/15) - Making A Game
 * Share Project #2 Outline & Feedback Questions
 * Workshop - Making A Game with [p5 Play]((http://p5play.molleindustria.org/))
-* Homework  
+* **Homework**  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
 	* WRITE a blog post that describes the feedback you received on your Project #2 Outline, what you learned, and what you plan to achieve by Friday
 	* WORK Project #2
@@ -186,7 +186,7 @@ Explorabe Stories Schedule
 * Guest - Rock Zou NYUAD Alum  
 * AFTERNOON TRIP: 1:30PM - 4:30PM
 	* IDEO (or other Company)
-* Homework  
+* **Homework**  
 	* Read Papert Ch.8
 	* WORK on Project #2  
 
@@ -195,13 +195,13 @@ Explorabe Stories Schedule
 * Issues - AI & Automation
 * [Dynamicland](https://dynamicland.org/)
 * Workshop - TBD
-* Homework  
+* **Homework**  
 	* PREPARE a "testable" version of Project #2  
 
 ### Class 12 (Thurs 01/18) - User Testing
 * User Testing Workshop
 * Open Office Hours (All Day)
-* Homework
+* **Homework**
 	* FINISH Project #2  
 
 ### Class 13 (Fri 01/19) - Final Class

@@ -1,6 +1,5 @@
-Explorable Stories*
-===================
-(*Always subject to change)
+Explorable Stories
+==================
 
 School: [NYU - Abu Dhabi](http://nyuad.nyu.edu/en/)  
 Semester: January 2018  
