@@ -59,17 +59,17 @@ Working independently, utilize p5JS or an “experiential” javascript library 
 
 ### Class Trips
 We will take several trips around London to gain inspiration and insight into the world of interactive explorable media. Places we plan to visit include the following:  
-* Saturday Jan 6 11:30am - 5:30pm 
+* Saturday Jan 6 10:30am - 5:30pm 
 	* Propaganda Poster Art Museum
 	* FuXing Park
 	* First Communist Congress Museum
 	* K11 Mall + MOMA PS1 Gallery
 * Sunday Jan 7 All Day (OPTIONAL)
 	* Shanghai Sightseeing Tour
-* Wednesday Jan 10 1:30pm - 6:30pm	
+* Wednesday Jan 10 1:00pm - 6:00pm	
 	* Power Station of Art (01/10)
 	* Bund Sightseeing Tunnel (01/10)
-* Friday Jan 12 7:00pm - 11:00pm
+* Thursday Jan 11 6:00pm - 11:00pm
 	* "Sleep No More" Play 
 * Tuesday Jan 16 1:30pm - 4:30pm
 	* IDEO (or other Company)

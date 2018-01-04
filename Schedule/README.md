@@ -86,7 +86,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Storytelling
 	* [Storytelling Fundamentals](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
 	* Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI)
-* AFTERNOON TRIP: 11:30AM - 5:30PM
+* AFTERNOON TRIP: 10:30AM - 5:30PM
 	* Shanghai Propaganda Poster Art Center
 	* Fuxing Park
 	* Site of the First Communist Congress
@@ -133,7 +133,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 ### Class 6 (Wed 01/10) - Project #1 & Guest Northy Chen
 * Present Project #1
 * Guest - Northy Chen
-* AFTERNOON TRIP: 1:30PM - 6:30PM
+* AFTERNOON TRIP: 1:00PM - 6:00PM
 	* Power Station of Art
 	* Bund Sightseeing Tunnel
 * **Homework**  
@@ -167,7 +167,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
 	* [Oculus Story Studio](https://storystudio.oculus.com/en-us/blog/))
 	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/)
-* EVENING TRIP: 7:00PM - 11:00PM 
+* EVENING TRIP: 6:00PM - 11:00PM 
 	* Sleep No More Play
 * **Homework**
 	* READ Papert CH. TBD
