@@ -59,14 +59,20 @@ Working independently, utilize p5JS or an “experiential” javascript library 
 
 ### Class Trips
 We will take several trips around London to gain inspiration and insight into the world of interactive explorable media. Places we plan to visit include the following:  
-* Propaganda Poster Art Museum (01/06)
-* FuXing Park (01/06)
-* First Communist Congress Museum (01/06)
-* K11 Mall + MOMA PS1 Gallery (01/06)
-* Power Station of Art (01/10)
-* Bund Sightseeing Tunnel (01/10)
-* Sleep No More Play (01/12)
-* IDEO (or other Company) (01/16)
+* Saturday Jan 6 11:30am - 5:30pm 
+	* Propaganda Poster Art Museum
+	* FuXing Park
+	* First Communist Congress Museum
+	* K11 Mall + MOMA PS1 Gallery
+* Sunday Jan 7 All Day (OPTIONAL)
+	* Shanghai Sightseeing Tour
+* Wednesday Jan 10 1:30pm - 6:30pm	
+	* Power Station of Art (01/10)
+	* Bund Sightseeing Tunnel (01/10)
+* Friday Jan 12 7:00pm - 11:00pm
+	* "Sleep No More" Play 
+* Tuesday Jan 16 1:30pm - 4:30pm
+	* IDEO (or other Company)
 
 ### Class Guests
 * Jiwon Shin - NYUAD Alum, IMA Fellow

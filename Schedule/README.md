@@ -7,7 +7,10 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 ### Class 1 (Thurs 01/04) - An Introduction to Exploration 
 * Class Introduction 
 	* Shanghai
-		*  SixthTone - [Alipay and WeChat Prove That China’s Future Is Cashless](http://www.sixthtone.com/news/1000731/Alipay%20and%20WeChat%20Prove%20That%20China%E2%80%99s%20Future%20Is%20Cashless)
+		* Digital Money
+			*  SixthTone - [Alipay and WeChat Prove That China’s Future Is Cashless](http://www.sixthtone.com/news/1000731/Alipay%20and%20WeChat%20Prove%20That%20China%E2%80%99s%20Future%20Is%20Cashless)
+			* NY Times - [In Urban China, Cash Is Rapidly Becoming Obsolete](https://www.nytimes.com/2017/07/16/business/china-cash-smartphone-payments.html)
+			* SCMP - [Going cash free: why China is light years ahead in the online payment revolution](http://www.scmp.com/magazines/post-magazine/long-reads/article/2110118/going-cash-free-why-china-light-years-ahead)
 		* Jiwon Shin
 	* Examples  
 		* Nicky Case - [Explorable Explanations](http://explorableexplanations.com/)
@@ -28,6 +31,8 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Workshop - Making A Web Page  
 	* Download an IDE Text Editor - Recommend [SublimeText](https://www.sublimetext.com/3)
 * **Homework**  
+	* EXPLORE [http://ncase.me/](http://ncase.me/)
+	* TRY [Evolution of Trust](http://ncase.me/trust/) or [Parable of the Polygons](http://ncase.me/polygons/)
 	* READ Bret Victor’s [“Explorable Explanations”](http://worrydream.com/ExplorableExplanations/)
 	* READ Seymour Papert’s “Mindstorms” Introduction + Ch.1 (pp. 3 - 37)
 	* DESCRIBE your most memorable educational experience pre-NYUAD. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time. It could have happened within school or outside of any formal educational setting. Why is this your most memorable experience? Was the experience an ‘explorable’ one or not? Were elements of Papert’s “Constructionism” involved? Explain why or why not?
