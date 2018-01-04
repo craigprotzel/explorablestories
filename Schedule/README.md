@@ -31,12 +31,12 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Workshop - Making A Web Page  
 	* Download an IDE Text Editor - Recommend [SublimeText](https://www.sublimetext.com/3)
 * **Homework**  
-	* EXPLORE [http://ncase.me/](http://ncase.me/)
-	* TRY [Evolution of Trust](http://ncase.me/trust/) or [Parable of the Polygons](http://ncase.me/polygons/)
+	* EXPLORE Examples Above
+	* TRY [Evolution of Trust](http://ncase.me/trust/) or [Parable of the Polygons](http://ncase.me/polygons/) (Approx 20 mins)
 	* READ Bret Victor’s [“Explorable Explanations”](http://worrydream.com/ExplorableExplanations/)
 	* READ Seymour Papert’s “Mindstorms” Introduction + Ch.1 (pp. 3 - 37)
 	* DESCRIBE your most memorable educational experience pre-NYUAD. This could be a singular moment where you came to an epiphany-like realization or a drawn-out process where understanding was realized over a period of time. It could have happened within school or outside of any formal educational setting. Why is this your most memorable experience? Was the experience an ‘explorable’ one or not? Were elements of Papert’s “Constructionism” involved? Explain why or why not?
-	* CREATE a web page that with your writing response on it that will serve as your homework blog  
+	* CREATE a web page with your writing response on it that will serve as your homework blog
 
 ### Class 2 (Fri 01/05) - Design & Develop
 * Share Homework
