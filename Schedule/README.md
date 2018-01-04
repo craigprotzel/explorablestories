@@ -10,8 +10,9 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 		* Digital Money
 			*  SixthTone - [Alipay and WeChat Prove That China’s Future Is Cashless](http://www.sixthtone.com/news/1000731/Alipay%20and%20WeChat%20Prove%20That%20China%E2%80%99s%20Future%20Is%20Cashless)
 			* NY Times - [In Urban China, Cash Is Rapidly Becoming Obsolete](https://www.nytimes.com/2017/07/16/business/china-cash-smartphone-payments.html)
-			* SCMP - [Going cash free: why China is light years ahead in the online payment revolution](http://www.scmp.com/magazines/post-magazine/long-reads/article/2110118/going-cash-free-why-china-light-years-ahead)
-		* Jiwon Shin
+			* SCMP - [Going Cash Free: Why China is Light Years Ahead in the Online Payment Revolution](http://www.scmp.com/magazines/post-magazine/long-reads/article/2110118/going-cash-free-why-china-light-years-ahead)
+		* [NYU IMA](http://ima.nyu.sh/)
+		* Jiwon Shin - IMA Fellow
 	* Examples  
 		* Nicky Case - [Explorable Explanations](http://explorableexplanations.com/)
 			* [The Evolution of Trust](http://ncase.me/trust/)
@@ -146,12 +147,13 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* [Human Centered Design](http://www.designkit.org/human-centered-design)
 	* Design Tools
 * Workshop - Introduction to [p5.JS](http://p5js.org/)
-	* [p5JS - Getting Started Tutorial](http://p5js.org/get-started/) 
+	* [p5JS - Getting Started Tutorial](http://p5js.org/get-started/)
+* EVENING TRIP: 6:00PM - 11:00PM 
+	* Sleep No More Play 
 * **Homework**  
-	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
 	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
 	* THINK about Project #2 and what type of "explorable story" you might like to create.
-	* CREATE a p5 sketch inspired by the readings and your idea
+	* CREATE a p5 sketch inspired by the reading and your idea
 	* EMBED the p5 sketch as a blog post using an iframe  
 
 ### Class 8 (Fri 01/12) - Coding for Exploration   
@@ -167,10 +169,8 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
 	* [Oculus Story Studio](https://storystudio.oculus.com/en-us/blog/))
 	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/)
-* EVENING TRIP: 6:00PM - 11:00PM 
-	* Sleep No More Play
 * **Homework**
-	* READ Papert CH. TBD
+	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
 	* WATCH Bret Victor’s [“Media for Thinking the Unthinkable”](http://worrydream.com/MediaForThinkingTheUnthinkable/) (40 mins)  
 	* CREATE a web-based "outline" for Project #2. Please post it on its own page by 9PM on Sunday the 14th.
 	* WRITE 3 Feedback Questions for the class and add them as a blog post.

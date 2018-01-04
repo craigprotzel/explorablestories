@@ -67,17 +67,17 @@ We will take several trips around London to gain inspiration and insight into th
 * Sunday Jan 7 All Day (OPTIONAL)
 	* Shanghai Sightseeing Tour
 * Wednesday Jan 10 1:00pm - 6:00pm	
-	* Power Station of Art (01/10)
-	* Bund Sightseeing Tunnel (01/10)
+	* Power Station of Art   
+	* Bund Sightseeing Tunnel  
 * Thursday Jan 11 6:00pm - 11:00pm
-	* "Sleep No More" Play 
+	* "Sleep No More" Play   
 * Tuesday Jan 16 1:30pm - 4:30pm
-	* IDEO (or other Company)
+	* IDEO (or other Company)  
 
 ### Class Guests
 * Jiwon Shin - NYUAD Alum, IMA Fellow
 * Luis Morales-Navarro - NYUAD Alum
-* Northi Chen - Nerve Milk 
+* Northy Chen - Nerve Milk 
 * Rock Zou - NYUAD Alum, IMA Fellow
 * Ann Chen - NYU ITP Alum, IMA Faculty  
 
