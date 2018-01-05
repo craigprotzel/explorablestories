@@ -49,12 +49,12 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Web Server Space
 	* SFTP Application - [Cyberduck](https://cyberduck.io/?l=en)
 	* [How To Upload to Cyberduck](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Cyberduck)
-* Workshop - Web Design & Development	
+* Workshop - Web Design & Development
 	* [Paperplanes](https://paperplanes.world/)
 	* [NY Times](https://www.nytimes.com/)
 	* [The Internet Archive - Wayback Machine](https://archive.org/web/)
 	* [Chrome Developer Tools](https://developer.chrome.com/devtools)
-* Web Resources  
+* Web Resources
 	* HTML
 		* MDN - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)  
 		* MDN - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)   
@@ -76,8 +76,6 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* Templates
 		* [HTML5 Boilerplate](https://html5boilerplate.com/)
 		* [Bootstrap](http://getbootstrap.com/) + [Boostrap Tutorial](https://www.sitepoint.com/understanding-twitter-bootstrap-3/)  
-* Discuss Site Visit #1 & Project #1
-
 * **Homework**  
 	* READ [Data + Design Ch.15 Importance of Color, Font, & Icons](https://infoactive.co/data-design/ch15)
 	* READ Janet Murray “Inventing the Medium” Introduction
@@ -87,6 +85,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* START thinking about Project #1
 
 ### Class 3 (Sat 01/06) - Sightseeing
+* Discuss Site Visit #1 & Project #1
 * DAY TRIP: 10:30AM - 5:30PM
 	* Shanghai Propaganda Poster Art Center
 	* Lunch
