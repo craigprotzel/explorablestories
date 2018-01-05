@@ -40,15 +40,20 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* CREATE a web page with your writing response on it that will serve as your homework blog
 
 ### Class 2 (Fri 01/05) - Design & Develop
-* Share Homework
+* Class Admin
+	* WeChat Group
+	* Rm. 825 Access
+	* 9th Floor IMA Lounge
+* Discuss Sites + Share Homework
 * Discuss Victor & Papert Readings
-* Discuss Project #1
-* Discuss Site Visit #1
+* Web Server Space
+	* SFTP Application - [Cyberduck](https://cyberduck.io/?l=en)
+	* [How To Upload to Cyberduck](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Cyberduck)
 * Workshop - Web Design & Development	
 	* [Paperplanes](https://paperplanes.world/)
+	* [NY Times](https://www.nytimes.com/)
 	* [The Internet Archive - Wayback Machine](https://archive.org/web/)
 	* [Chrome Developer Tools](https://developer.chrome.com/devtools)
-	* [CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * Web Resources  
 	* HTML
 		* MDN - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)  
@@ -57,6 +62,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 		* MDN - [Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)    
 		* [Google Fonts](https://fonts.google.com/)
 		* [CSS Postioning 101](http://alistapart.com/article/css-positioning-101)
+		* [CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 	* Video Tutorials  
 		* [Don't Fear The Internet](http://www.dontfeartheinternet.com/)	
 		* [Lynda.com](http://www.nyu.edu/lynda) - HTML Essential Training  
@@ -67,39 +73,36 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 		* [Web Tuts - Design School for Developers](https://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 		* [Google Web Dev - Responsive Basics + Layouts](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
 		* [Google Web Dev - Responsive Web Design Patterns](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns?hl=en)
-		* [Design School for Developers](https://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)  
 	* Templates
 		* [HTML5 Boilerplate](https://html5boilerplate.com/)
 		* [Bootstrap](http://getbootstrap.com/) + [Boostrap Tutorial](https://www.sitepoint.com/understanding-twitter-bootstrap-3/)  
-* Web Server Space
-	* SFTP Application - [Cyberduck](https://cyberduck.io/?l=en)
-	* [How To Upload to Cyberduck](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Cyberduck)
+* Discuss Site Visit #1 & Project #1
+
 * **Homework**  
 	* READ [Data + Design Ch.15 Importance of Color, Font, & Icons](https://infoactive.co/data-design/ch15)
 	* READ Janet Murray “Inventing the Medium” Introduction
-	* ADD a .css file and some personalized design/styling (i.e. font, color, layout, imagery, etc) to both your home page and your blog page
+	* ADD (or IMPROVE) a .css file and some personalized design/styling (i.e. font, color, layout, imagery, etc) to both your home page and your blog page
 	* RESEARCH the locations for tomorrow’s visit.
 	* WRITE a blog post describing what you are most excited/interested/intrigued to see tomorrow and why. Be prepared to discuss in class.
 	* START thinking about Project #1
 
-### Class 3 (Sat 01/06) - Storytime
-* Share Homework & Discuss Readings 
-* Storytelling
-	* [Storytelling Fundamentals](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
-	* Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI)
-* AFTERNOON TRIP: 10:30AM - 5:30PM
+### Class 3 (Sat 01/06) - Sightseeing
+* DAY TRIP: 10:30AM - 5:30PM
 	* Shanghai Propaganda Poster Art Center
+	* Lunch
 	* Fuxing Park
+	* Shikumen Museum
 	* Site of the First Communist Congress
 	* K11 Mall & Gallery
 * **Homework**  
+	* WATCH Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI)
 	* READ Chris Crawford Ch.1 Storytelling
 	* WORK on Project #1  
 	* WRITE a blog post describing the site/space/location you plan to focus on for Project #1. What "story" do you want to tell and why? Please post this by 9PM on Sunday the 7th. 
 
-### Class 4 (Mon 01/08) - Style & Interactivity
+### Class 4 (Mon 01/08) - Stories & Interactivity
 * Share Project Ideas & Discuss Crawford Reading 
-* More CSS
+* [Storytelling Fundamentals](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
 * Workshop - Intro to Javascript & Web Interactions   
 	* MDN - [What Is Javascript, Really?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 	* [jQuery](http://api.jquery.com/)  
