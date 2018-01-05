@@ -1,0 +1,16 @@
+body{
+	font-family: Arial;
+}
+
+h1{
+	text-align: center;
+}
+
+.special-div{
+	color: yellow;
+}
+
+.my-div{
+	color: purple;
+}
+
