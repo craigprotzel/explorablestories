@@ -94,7 +94,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* Site of the First Communist Congress
 	* K11 Mall & Gallery
 * **Homework**  
-	* WATCH Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI)
+	* WATCH Ira Glass - [Storytelling Part 1 of 4](https://www.youtube.com/watch?v=f6ezU57J8YI) (5mins)
 	* READ Chris Crawford Ch.1 Storytelling
 	* WORK on Project #1  
 	* WRITE a blog post describing the site/space/location you plan to focus on for Project #1. What "story" do you want to tell and why? Please post this by 9PM on Sunday the 7th. 
@@ -184,7 +184,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * **Homework**  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
 	* WRITE a blog post that describes the feedback you received on your Project #2 Outline, what you learned, and what you plan to achieve by Friday
-	* WORK Project #2
+	* WORK on Project #2
 	* CREATE a "Home Page" for your web server space that links to your blog post page and both of your projects
 
 ### Class 10 (Tues 01/16) - The Real World
