@@ -101,7 +101,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 
 ### Class 4 (Mon 01/08) - Stories & Interactivity
 * Share Project Ideas & Discuss Crawford Reading 
-* [Storytelling Fundamentals](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Storytelling_Crash_Course.pdf)
+* [Storytelling Fundamentals](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Explorables_2018_Storytelling_Fundamentals.pdf)
 * Workshop - Intro to Javascript & Web Interactions   
 	* MDN - [What Is Javascript, Really?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 	* [jQuery](http://api.jquery.com/)  
