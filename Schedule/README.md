@@ -102,6 +102,10 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 ### Class 4 (Mon 01/08) - Stories & Interactivity
 * Share Project Ideas & Discuss Crawford Reading 
 * [Storytelling Fundamentals](https://github.com/craigprotzel/explorablestories/blob/master/Lectures/Explorables_2018_Storytelling_Fundamentals.pdf)
+* Examples
+	* Washington Post - [The Confrontation](http://www.washingtonpost.com/wp-srv/special/national/ferguson-grand-jury-findings/)
+	* NY Times - [Thoughts for A Second Term President](http://www.nytimes.com/interactive/2013/01/21/us/politics/inauguration-portraits.html)
+	* [TimelineJS](https://timeline.knightlab.com/)
 * Workshop - Intro to Javascript & Web Interactions   
 	* MDN - [What Is Javascript, Really?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 	* [jQuery](http://api.jquery.com/)  

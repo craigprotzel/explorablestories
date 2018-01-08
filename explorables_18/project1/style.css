@@ -1,0 +1,51 @@
+body{
+	font-size: 24px;
+	font-family: 'Jura', sans-serif;
+}
+
+.main-container{
+	max-width: 1080px;
+	width: 90%;
+	margin: 0 auto; 
+}
+
+.header{
+	text-align: center;
+	font-size: 2em;
+	margin-top: 30px;
+}
+
+.buttons{
+	width: 90%;
+	margin: 60px auto 40px;
+}
+
+/*Buttons in a row*/
+.button-main{
+	width: 22%;
+	height: 42px;
+	font-size: 0.6em;
+	margin: 0 5%; 
+	background-color: pink;
+	border: none;
+}
+
+/*Buttons in a column*/
+/*.button-main{
+	display: block;
+	width: 30%;
+	height: 60px;
+	font-size: 0.7em;
+	margin: 20px 35%;
+	background-color: rgb(157,180,255);	
+}
+*/
+.button-main:hover{
+	background-color: rgb(255,236,239);
+/*	color: white;	*/
+}
+
+.description{
+	text-align: center;
+	font-size: 0.8em;
+}
