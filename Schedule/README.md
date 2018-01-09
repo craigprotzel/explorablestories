@@ -185,6 +185,8 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 ### Class 9 (Mon 01/15) - Making A Game
 * Share Project #2 Outline & Feedback Questions
 * Workshop - Making A Game with [p5 Play]((http://p5play.molleindustria.org/))
+* AFTERNOON TRIP: 1:30PM - 4:30PM
+	* IDEO (or other Company)
 * **Homework**  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
 	* WRITE a blog post that describes the feedback you received on your Project #2 Outline, what you learned, and what you plan to achieve by Friday
@@ -195,8 +197,6 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Discuss Homework & Reading  
 * Other JS Libraries
 * Guest - Rock Zou NYUAD Alum  
-* AFTERNOON TRIP: 1:30PM - 4:30PM
-	* IDEO (or other Company)
 * **Homework**  
 	* Read Papert Ch.8
 	* WORK on Project #2  
@@ -205,7 +205,8 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Discuss Site Visit & Papert Reading  
 * Issues - AI & Automation
 * [Dynamicland](https://dynamicland.org/)
-* Workshop - TBD
+* More p5 Code Examples
+* Visit to PCI Lab
 * **Homework**  
 	* PREPARE a "testable" version of Project #2  
 
