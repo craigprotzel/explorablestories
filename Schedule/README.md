@@ -146,6 +146,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * **Homework**  
 	* WATCH ["A Brief Introduction to Debugging: Introduction & Part 1"](https://vimeo.com/105069079)
 	* WATCH ["Hello p5JS"](http://hello.p5js.org/) (Approx. 8 min)	
+	* WORK ON "About" Page for Project #1 Due Friday
 
 ### Class 7 (Thurs 01/11) - Designing for Exploration  
 * Discuss Site Visit & Project #2
@@ -164,7 +165,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* EMBED the p5 sketch as a blog post using an iframe
 
 ### Class 8 (Fri 01/12) - Coding for Exploration   
-* Discuss Crawford & Case Readings
+* Discuss Sleep No More & Case Reading
 * Share Homework Sketches
 * Workshop - Coding Animations, Conditionals, & Interactions with p5.js 
 * [Setting up a Local Host](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Local_Server)
