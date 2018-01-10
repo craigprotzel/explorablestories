@@ -157,10 +157,11 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * EVENING TRIP: 6:00PM - 11:00PM 
 	* Sleep No More Play 
 * **Homework**  
+	* FINISH About Page for Project #1
 	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
-	* THINK about Project #2 and what type of "explorable story" you might like to create.
+	* THINK about Project #2 and what "explorable story" you might like to create.  
 	* CREATE a p5 sketch inspired by the reading and your idea
-	* EMBED the p5 sketch as a blog post using an iframe  
+	* EMBED the p5 sketch as a blog post using an iframe
 
 ### Class 8 (Fri 01/12) - Coding for Exploration   
 * Discuss Crawford & Case Readings
@@ -191,7 +192,6 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
 	* WRITE a blog post that describes the feedback you received on your Project #2 Outline, what you learned, and what you plan to achieve by Friday
 	* WORK on Project #2
-	* CREATE a "Home Page" for your web server space that links to your blog post page and both of your projects
 
 ### Class 10 (Tues 01/16) - The Real World
 * Discuss Homework & Reading  
@@ -206,7 +206,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Issues - AI & Automation
 * [Dynamicland](https://dynamicland.org/)
 * More p5 Code Examples
-* Visit to PCI Lab
+* Visit to PCI Lab with Prof. Christian Grewell
 * **Homework**  
 	* PREPARE a "testable" version of Project #2  
 
