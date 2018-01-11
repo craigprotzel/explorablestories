@@ -159,6 +159,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* Sleep No More Play 
 * **Homework**  
 	* FINISH 'About' Page for Project #1
+	* POST your "Bund Tunnel Re-Design" mood board on your blog.
 	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
 	* THINK about Project #2 and what "explorable story" you might like to create.  
 	* CREATE a p5 sketch inspired by the reading and your idea for Project #2. Be prepared to share your sketch in class tomorrow.
