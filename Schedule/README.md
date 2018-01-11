@@ -158,11 +158,10 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * EVENING TRIP: 6:00PM - 11:00PM 
 	* Sleep No More Play 
 * **Homework**  
-	* FINISH About Page for Project #1
+	* FINISH 'About' Page for Project #1
 	* READ Nicky Case [“I Do and I Understand”](http://blog.ncase.me/i-do-and-i-understand/)  
 	* THINK about Project #2 and what "explorable story" you might like to create.  
-	* CREATE a p5 sketch inspired by the reading and your idea
-	* EMBED the p5 sketch as a blog post using an iframe
+	* CREATE a p5 sketch inspired by the reading and your idea for Project #2. Be prepared to share your sketch in class tomorrow.
 
 ### Class 8 (Fri 01/12) - Coding for Exploration   
 * Discuss Sleep No More & Case Reading
@@ -179,9 +178,8 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/)
 * **Homework**
 	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
-	* WATCH Bret Victor’s [“Media for Thinking the Unthinkable”](http://worrydream.com/MediaForThinkingTheUnthinkable/) (40 mins)  
-	* CREATE a web-based "outline" for Project #2. Please post it on its own page by 9PM on Sunday the 14th.
-	* WRITE 3 Feedback Questions for the class and add them as a blog post.
+	* CREATE a web-based "outline" for Project #2. Please post it on its own Project #2 page by 9PM on Sunday the 14th.
+	* WRITE 3 "Feedback Questions" for the class and add them as a blog post.
 	* BONUS (NOT REQUIRED) - [Khan Academy "Intro to JS Drawing & Animation"](https://www.khanacademy.org/computing/computer-programming/programming)
   
 ### Class 9 (Mon 01/15) - Making A Game
