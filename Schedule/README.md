@@ -167,7 +167,10 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 ### Class 8 (Fri 01/12) - Coding for Exploration   
 * Discuss Sleep No More & Case Reading
 * Share Homework Sketches
-* Workshop - Coding Animations, Conditionals, & Interactions with p5.js 
+* Workshop - Coding
+	* Animations
+	* Conditionals
+	* Images
 * [Setting up a Local Host](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Local_Server)
 * Introduce [p5 Libraries](https://p5js.org/libraries/)
 * Inspiration & Resources 
