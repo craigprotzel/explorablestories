@@ -169,7 +169,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Share Homework Sketches
 * Workshop - Coding Animations, Conditionals, & Interactions with p5.js 
 * [Setting up a Local Host](https://github.com/craigprotzel/Mashups/tree/master/_Help/How_To/Local_Server)
-* Introduce p5 Libraries(https://p5js.org/libraries/)
+* Introduce [p5 Libraries](https://p5js.org/libraries/)
 * Inspiration & Resources 
 	* [NFCB - Interactive](https://www.nfb.ca/interactive/)
 	* [Webby Awards](https://www.webbyawards.com/winners/2017/)
