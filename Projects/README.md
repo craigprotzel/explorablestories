@@ -1,4 +1,4 @@
-Explorabe Stories Projects
+Explorable Stories Projects
 ==========================
 
 ### Grading Rubric - 100 points

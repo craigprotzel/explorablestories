@@ -1,5 +1,5 @@
-Explorabe Stories Schedule
-==========================
+Explorable Stories Schedule
+===========================
 
 ### STRUCTURE  
 FOUNDATION -> INTERACTION -> EXPLORATION
