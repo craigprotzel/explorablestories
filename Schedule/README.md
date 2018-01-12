@@ -179,7 +179,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* [Awwwards - Collections](http://www.awwwards.com/collections/)
 	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
 	* [Oculus Story Studio](https://storystudio.oculus.com/en-us/blog/)
-	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/)
+	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/) + [JoyJS](http://ncase.me/joy/)
 * **Homework**
 	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
 	* CREATE a web-based "outline" for Project #2. Please post it on its own Project #2 page by 9PM on Sunday the 14th.
