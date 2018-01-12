@@ -182,15 +182,13 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/) + [JoyJS](http://ncase.me/joy/)
 * **Homework**
 	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
-	* CREATE a web-based "outline" for Project #2. Please post it on its own Project #2 page by 9PM on Sunday the 14th.
+	* CREATE a web-based "outline" for Project #2. Please post it on its own Project #2 page by 9PM on Sunday the 14th. For the "outline", the idea is that you are just starting to lay out the structure of the experience - i.e. blocks of text, interactivity, placeholder images etc.
 	* WRITE 3 "Feedback Questions" for the class and add them as a blog post.
 	* BONUS (NOT REQUIRED) - [Khan Academy "Intro to JS Drawing & Animation"](https://www.khanacademy.org/computing/computer-programming/programming)
   
 ### Class 9 (Mon 01/15) - Making A Game
 * Share Project #2 Outline & Feedback Questions
-* Workshop - Making A Game with [p5 Play]((http://p5play.molleindustria.org/))
-* AFTERNOON TRIP: 1:30PM - 4:30PM
-	* IDEO (or other Company)
+* Workshop - Making A Game with [p5 Play](http://p5play.molleindustria.org/)
 * **Homework**  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
 	* WRITE a blog post that describes the feedback you received on your Project #2 Outline, what you learned, and what you plan to achieve by Friday
@@ -199,7 +197,9 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 ### Class 10 (Tues 01/16) - The Real World
 * Discuss Homework & Reading  
 * Other JS Libraries
-* Guest - Rock Zou NYUAD Alum  
+* TRIP: Time TBD
+	* [Bigger Lab](http://www.biggerlab.com/) - Rock Zou NYUAD Alum
+	* [XinCheJian](https://xinchejian.com/)
 * **Homework**  
 	* Read Papert Ch.8
 	* WORK on Project #2  
