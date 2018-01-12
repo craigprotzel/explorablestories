@@ -178,7 +178,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* [Webby Awards](https://www.webbyawards.com/winners/2017/)
 	* [Awwwards - Collections](http://www.awwwards.com/collections/)
 	* [Chrome Experiments with p5JS](https://www.chromeexperiments.com/p5js?page=0)
-	* [Oculus Story Studio](https://storystudio.oculus.com/en-us/blog/))
+	* [Oculus Story Studio](https://storystudio.oculus.com/en-us/blog/)
 	* [Nicky Case - Simulation Tool](http://ncase.me/simulating/)
 * **Homework**
 	* READ Chris Crawford Ch.3 “Interactive Storytelling”  
