@@ -204,7 +204,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* [Bigger Lab](http://www.biggerlab.com/) - Rock Zou NYUAD Alum
 	* [People Squared](http://www.people-squared.com/)
 * **Homework**  
-	* Read Papert Ch.8
+	* Read Papert "Mindstorms" Ch.8
 	* WORK on Project #2  
 
 ### Class 11 (Wed 01/17) - The Future
