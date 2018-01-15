@@ -187,7 +187,9 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 	* BONUS (NOT REQUIRED) - [Khan Academy "Intro to JS Drawing & Animation"](https://www.khanacademy.org/computing/computer-programming/programming)
   
 ### Class 9 (Mon 01/15) - Making A Game
-* Share Project #2 Outline & Feedback Questions
+* Discuss Crawford Reading
+* Share Project #2 Ideas
+* Project #2 Feedback Exercise
 * Workshop - Making A Game with [p5 Play](http://p5play.molleindustria.org/)
 * **Homework**  
 	* READ Janet Murray “Inventing the Medium” Ch.5 “Building Procedural Complexity”  
@@ -196,30 +198,32 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 
 ### Class 10 (Tues 01/16) - The Real World
 * Discuss Homework & Reading  
-* Other JS Libraries
-* TRIP: Time TBD
+* Continue Building Game with p5 
+* [Dynamicland](https://dynamicland.org/)
+* AFTERNOON TRIP: Time 1:45PM - 6:00PM
 	* [Bigger Lab](http://www.biggerlab.com/) - Rock Zou NYUAD Alum
-	* [XinCheJian](https://xinchejian.com/)
+	* [People Squared](http://www.people-squared.com/)
 * **Homework**  
 	* Read Papert Ch.8
 	* WORK on Project #2  
 
 ### Class 11 (Wed 01/17) - The Future
+* Guest - Rachel & User Experience
 * Discuss Site Visit & Papert Reading  
 * Issues - AI & Automation
-* [Dynamicland](https://dynamicland.org/)
-* More p5 Code Examples
 * Visit to PCI Lab with Prof. Christian Grewell
+* AFTERNOON TRIP: TIME 3:15PM - 6:00PM
+	* [Gululu](http://www.mygululu.com/en/home-en/)
 * **Homework**  
 	* PREPARE a "testable" version of Project #2  
 
 ### Class 12 (Thurs 01/18) - User Testing
-* User Testing Workshop
+* User Testing Workshop with Guests 
 * Open Office Hours (All Day)
 * **Homework**
 	* FINISH Project #2  
 
 ### Class 13 (Fri 01/19) - Final Class
-* Final Project Presentations
+* Final Project Presentations with Guests
 * Course Review  
 * Course Evaluations  
