@@ -199,6 +199,8 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 ### Class 10 (Tues 01/16) - The Real World
 * Discuss Homework & Reading  
 * Continue Building Game with p5 
+	* Allison Parish - [Making Games with p5.play](https://creative-coding.decontextualize.com/making-games-with-p5-play/)
+	* Space Flyer Tutorial(https://github.com/craigprotzel/space-flyer)
 * [Dynamicland](https://dynamicland.org/)
 * AFTERNOON TRIP: Time 1:45PM - 6:00PM
 	* [Bigger Lab](http://www.biggerlab.com/) - Rock Zou NYUAD Alum
@@ -210,6 +212,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 ### Class 11 (Wed 01/17) - The Future
 * Guest - Rachel & User Experience
 * Discuss Site Visit & Papert Reading  
+* Discuss Project #2 Progress
 * Issues - AI & Automation
 * Visit to PCI Lab with Prof. Christian Grewell
 * AFTERNOON TRIP: TIME 3:15PM - 6:00PM

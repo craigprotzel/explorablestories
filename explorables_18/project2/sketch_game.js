@@ -1,60 +1,122 @@
 var bgImage;
-var characterImage;
+var soup;
+var dumpling;
+
+var theSound;
 
 function preload(){
   bgImage = loadImage('shanghai.jpg');
-  characterImage = loadImage('ufo.png');
+  soup = loadImage('soup.png');
+  dumpling = loadImage('dumpling.png');
+}
+
+var theSoup;
+var theDumplings;
+var total = 100;
+
+var timeLimit = 10;
+var timer = 0;
+
+function initGame(){
+
+  theDumplings = new Group();
+  for (var i = 0; i < total; i++){
+    var oneDumpling = createSprite(random(0,width), random(0,height));
+    oneDumpling.addImage(dumpling);
+    theDumplings.add(oneDumpling);
+  }
+
+  theSoup = createSprite(width/2, height/2);
+  theSoup.addImage(soup);
+
 }
 
 function setup() {
   // put setup code here
   createCanvas(800,600);
-  background(bgImage);
+  background(150,150,235);
+
+  soup.resize(100,60);
+  dumpling.resize(50,50);
+  initGame();
 }
 
-var currentX = 0;
-var speedX = 5;
+function makeDisappear(collider, target){
+  console.log("Collision!!!");
+  console.log(collider);
+  console.log(target);
 
-var currentY = 0;
-var speedY = 7;
+  target.remove();
+
+}
+
+var winner = false;
+var gameOver = false;
 
 function draw() {
   // put drawing code here
-  background(bgImage);
+  background(150,150,235); 
   
-  //fill(240, 220, 10);
-  //noStroke();
-  //ellipse(400,300, 200,200);
+  if (gameOver){
+    fill(255);
+    textAlign(CENTER);
+    textSize(46);
+    text("SORRY!!!", width/2, 80); 
 
-  fill(0,0,255);
-  //ellipse(currentX, currentY, 100,100);
-  image(characterImage, currentX, currentY, characterImage.width/4, characterImage.height/4);
-
-  if (moving){
-    currentX = currentX + speedX;
-    currentY = currentY + speedY;
+    textSize(24);
+    text("Click mouse to restart", width/2, 160);
   }
+  else if (winner){
+    fill(255);
+    textAlign(CENTER);
+    textSize(46);
+    text("WINNER!!!", width/2, 80);
 
-  if (currentX > width || currentX < 0){
-    speedX = speedX * -1;
+    textSize(24);
+    text("Click mouse to restart", width/2, 160);
   }
-  if (currentY > height || currentY < 0){
-    speedY = speedY * -1;
+  else{
+    theSoup.position.x = mouseX;
+    theSoup.position.y = mouseY;
+    noCursor();
+
+    theSoup.overlap(theDumplings, makeDisappear);
+    drawSprites();
+
+    timer++;
+    var curTime = timeLimit - floor(timer/60);
+    fill(255);
+    textAlign(CENTER);
+    textSize(46);
+    text(curTime, width/2, height - 60);
+
+    if (theDumplings.length === 0){
+      winner = true;
+    }
+    if (curTime === 0){
+      gameOver = true;
+    }
   }
 }
 
-var moving = false;
+
 function mousePressed(){
-  moving = !moving;
-  console.log(moving);
+
+  if (winner || gameOver){
+    winner = false;
+    gameOver = false;
+    timer = 0;
+
+    theDumplings.removeSprites();
+    theSoup.remove();
+
+    total = total * 1.5;
+    timeLimit = timeLimit - 1;
+    initGame();
+  }
+
 }
 
 function keyPressed(){
-  if (keyCode === LEFT_ARROW) {
-    speedX = speedX * 0.9 ;
-
-  } else if (keyCode === RIGHT_ARROW) {
-    speedX = speedX * 1.1;
-  }
 }
 
