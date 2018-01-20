@@ -200,7 +200,7 @@ FOUNDATION -> INTERACTION -> EXPLORATION
 * Discuss Homework & Reading  
 * Continue Building Game with p5 
 	* Allison Parish - [Making Games with p5.play](https://creative-coding.decontextualize.com/making-games-with-p5-play/)
-	* Space Flyer Tutorial(https://github.com/craigprotzel/space-flyer)
+	* [Space Flyer Tutorial](https://github.com/craigprotzel/space-flyer)
 * [Dynamicland](https://dynamicland.org/)
 * AFTERNOON TRIP: Time 1:45PM - 6:00PM
 	* [Bigger Lab](http://www.biggerlab.com/) - Rock Zou NYUAD Alum
